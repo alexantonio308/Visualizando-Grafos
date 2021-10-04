@@ -1,0 +1,1597 @@
+{
+    "nodes": [
+        {
+            "nu_cpfcnpj": "00106924000177",
+            "socio_indice": 1,
+            "name": "JOAO FERNANDO ALDANA",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00118689000153",
+            "socio_indice": 1,
+            "name": "CARLOS ROBERTO BARBOSA DE MIRANDA",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00118689000153",
+            "socio_indice": 2,
+            "name": "CAMILLA LICARIAO DE MIRANDA ALVES",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00120518000169",
+            "socio_indice": 1,
+            "name": "JOAO RIBEIRO DA SILVA JUNIOR",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00120518000169",
+            "socio_indice": 2,
+            "name": "IAGO FERNANDO PEREIRA RODRIGUES",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00120518000169",
+            "socio_indice": 3,
+            "name": "MARCOS VINICIUS SOBREIRA PEREIRA LINS",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00125629000168",
+            "socio_indice": 1,
+            "name": "CALOGERO PARISI FILHO",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00125632000181",
+            "socio_indice": 1,
+            "name": "RODOLFO SANTA CRUZ LINS",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00125632000181",
+            "socio_indice": 2,
+            "name": "CLOVIS DOS SANTOS LIMA NETTO",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00125632000181",
+            "socio_indice": 3,
+            "name": "ROSA GERMANA SOUZA DOS SANTOS LIMA",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00132962000102",
+            "socio_indice": 1,
+            "name": "ALDECI GOMES LOUREIRO",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00132962000102",
+            "socio_indice": 2,
+            "name": "FATIMA DINIZ LOUREIRO",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00133598000197",
+            "socio_indice": 1,
+            "name": "PEDRO GOMES DA COSTA FILHO",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00133598000197",
+            "socio_indice": 2,
+            "name": "PEDRO HENRIQUE GOMES DA COSTA",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00139895000140",
+            "socio_indice": 1,
+            "name": "FRANCISCO BARBOSA LIMA",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00139895000140",
+            "socio_indice": 2,
+            "name": "FRANCISCA GENILDA DANTAS BARBOSA",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00142725000114",
+            "socio_indice": 1,
+            "name": "FLAVIO GOMES CORREIA",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00142725000114",
+            "socio_indice": 2,
+            "name": "MARLUCE FLOR CORREIA",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00148073000125",
+            "socio_indice": 1,
+            "name": "SEBASTIAO LOPES DE OLIVEIRA FILHO",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00148073000125",
+            "socio_indice": 2,
+            "name": "PAULO RICARDO LOPES DE NAVARRO COUTINHO",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00148082000116",
+            "socio_indice": 1,
+            "name": "JORGE PERICLES DE ANDRADE MARQUES",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00148082000116",
+            "socio_indice": 2,
+            "name": "ILDERICA CLARO DE FREITAS",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00148580000169",
+            "socio_indice": 1,
+            "name": "JOSE ULISSES DA SILVA",
+            "name_legal": "NA",
+            "socio_qualificacao": "16-Presidente",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00149703000186",
+            "socio_indice": 1,
+            "name": "FLAVIO EXPEDITO NOTARO LESSA",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00149703000186",
+            "socio_indice": 2,
+            "name": "LAMARTINE SOUSA NEVES",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00149703000186",
+            "socio_indice": 3,
+            "name": "DANIELLE BENEVIDES MARTINS NEVES",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00149703000186",
+            "socio_indice": 4,
+            "name": "KELSON ALBUQUERQUE ARAUJO",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00149706000110",
+            "socio_indice": 1,
+            "name": "VICENTE EDMUNDO ROCCO NETO",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00149706000110",
+            "socio_indice": 2,
+            "name": "THAISA ROCCO DE MENEZES",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00150671000139",
+            "socio_indice": 1,
+            "name": "ANTONIO MARCOS FERRAZ ALBUQUERQUE",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00150671000139",
+            "socio_indice": 2,
+            "name": "ANA ENEIDE ALVES FERRAZ PEREIRA",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00150718000164",
+            "socio_indice": 1,
+            "name": "RONALDO NUNES MUNIZ",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00150718000164",
+            "socio_indice": 2,
+            "name": "VERGINALDO NUNES MUNIZ",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00153298000170",
+            "socio_indice": 1,
+            "name": "FERNANDO DOMINGUES WERNER",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00153298000170",
+            "socio_indice": 2,
+            "name": "TANIA MARIA OLIVEIRA WERNER",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00153298000170",
+            "socio_indice": 3,
+            "name": "JULIANA WERNER",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00153298000170",
+            "socio_indice": 4,
+            "name": "FELIPE WERNER",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00165960000101",
+            "socio_indice": 1,
+            "name": "ANDRE BURLAMAQUI",
+            "name_legal": "NA",
+            "socio_qualificacao": "08-Conselheiro de Administração",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00165960000101",
+            "socio_indice": 2,
+            "name": "JEFERSON FRANCISCO DA SILVA",
+            "name_legal": "NA",
+            "socio_qualificacao": "10-Diretor",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00165960000101",
+            "socio_indice": 3,
+            "name": "SILVIO LUIS STROZZI",
+            "name_legal": "NA",
+            "socio_qualificacao": "10-Diretor",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00165960000101",
+            "socio_indice": 4,
+            "name": "ROBERLEI CESAR FERNANDES",
+            "name_legal": "NA",
+            "socio_qualificacao": "10-Diretor",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00165960000101",
+            "socio_indice": 5,
+            "name": "TOMAZ DE AQUINO RODRIGUES DE FREITAS",
+            "name_legal": "NA",
+            "socio_qualificacao": "10-Diretor",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00165960000101",
+            "socio_indice": 6,
+            "name": "VIRGINIA KAYSER DA SILVA",
+            "name_legal": "NA",
+            "socio_qualificacao": "10-Diretor",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00165960000101",
+            "socio_indice": 7,
+            "name": "MARCELO FERREIRA CHAVES DE OLIVEIRA LIMA",
+            "name_legal": "NA",
+            "socio_qualificacao": "10-Diretor",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00165960000101",
+            "socio_indice": 8,
+            "name": "JEFFERSON ARMANDO ANESI TOLARDO",
+            "name_legal": "NA",
+            "socio_qualificacao": "08-Conselheiro de Administração",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00165960000101",
+            "socio_indice": 9,
+            "name": "ROBERTO JOSE FIGUEIRA COELHO",
+            "name_legal": "NA",
+            "socio_qualificacao": "08-Conselheiro de Administração",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00166929000195",
+            "socio_indice": 1,
+            "name": "PEDRO ALBERTO DE MIRANDA SANTOS",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00166929000195",
+            "socio_indice": 2,
+            "name": "ANGELA CRISTINA CARVALHO BARROS SANTOS",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00166929000195",
+            "socio_indice": 3,
+            "name": "BS PARTICIPACOES LTDA",
+            "name_legal": "ANGELA CRISTINA CARVALHO BARROS SANTOS",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "05-Administrador",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00168254000113",
+            "socio_indice": 1,
+            "name": "NELSON EDUARDO LIMA RIBEIRO",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00168254000113",
+            "socio_indice": 2,
+            "name": "JOSE HELTON VICENTE LEITE",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00168479000170",
+            "socio_indice": 1,
+            "name": "ANTONNY PABLO LAUREANO DE AZEVEDO",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00168479000170",
+            "socio_indice": 2,
+            "name": "ANTONIO PAULO DE AZEVEDO",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00171424000119",
+            "socio_indice": 1,
+            "name": "JOSE CARLOS FARIAS DE BARROS",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00171424000119",
+            "socio_indice": 2,
+            "name": "JOSE CARLOS FARIAS DE BARROS JUNIOR",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00171424000119",
+            "socio_indice": 3,
+            "name": "MARCOS ANTONIO CABRAL DO NASCIMENTO BARROS",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00171428000105",
+            "socio_indice": 1,
+            "name": "LEANDRO DE MELO NASCIMENTO",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00171428000105",
+            "socio_indice": 2,
+            "name": "LORENA DE MELO NASCIMENTO DANTAS",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00171428000105",
+            "socio_indice": 3,
+            "name": "RODRIGO QUEIROZ CANDIDO",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00171428000105",
+            "socio_indice": 4,
+            "name": "LARISSA DE MELO NASCIMENTO",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00171428000105",
+            "socio_indice": 5,
+            "name": "SANTA MARIA TRANSPORTES LTDA",
+            "name_legal": "AGNELO CANDIDO DO NASCIMENTO",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "05-Administrador",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00172257000120",
+            "socio_indice": 1,
+            "name": "GICELIO LIMEIRA TORRES",
+            "name_legal": "NA",
+            "socio_qualificacao": "49-Sócio-Administrador",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        },
+        {
+            "nu_cpfcnpj": "00172257000120",
+            "socio_indice": 2,
+            "name": "FERNANDA COELHO LIMEIRA TORRES",
+            "name_legal": "NA",
+            "socio_qualificacao": "22-Sócio",
+            "socio_qualificacao_legal": "NA",
+            "socio_pais_origem": "NA"
+        }
+    ],
+    "links": [
+        {
+          "source": "1",
+          "target": "0"
+        },
+        {
+          "source": "2",
+          "target": "0"
+        },
+        {
+          "source": "3",
+          "target": "0"
+        },
+        {
+          "source": "3",
+          "target": "2"
+        },
+        {
+          "source": "4",
+          "target": "0"
+        },
+        {
+          "source": "5",
+          "target": "0"
+        },
+        {
+          "source": "6",
+          "target": "0"
+        },
+        {
+          "source": "7",
+          "target": "0"
+        },
+        {
+          "source": "8",
+          "target": "0"
+        },
+        {
+          "source": "9",
+          "target": "0"
+        },
+        {
+          "source": "11",
+          "target": "0"
+        },
+        {
+          "source": "11",
+          "target": "2"
+        },
+        {
+          "source": "11",
+          "target": "3"
+        },
+        {
+          "source": "11",
+          "target": "10"
+        },
+        {
+          "source": "12",
+          "target": "11"
+        },
+        {
+          "source": "13",
+          "target": "11"
+        },
+        {
+          "source": "14",
+          "target": "11"
+        },
+        {
+          "source": "15",
+          "target": "11"
+        },
+        {
+          "source": "17",
+          "target": "16"
+        },
+        {
+          "source": "18",
+          "target": "16"
+        },
+        {
+          "source": "18",
+          "target": "17"
+        },
+        {
+          "source": "19",
+          "target": "16"
+        },
+        {
+          "source": "19",
+          "target": "17"
+        },
+        {
+          "source": "19",
+          "target": "18"
+        },
+        {
+          "source": "20",
+          "target": "16"
+        },
+        {
+          "source": "20",
+          "target": "17"
+        },
+        {
+          "source": "20",
+          "target": "18"
+        },
+        {
+          "source": "20",
+          "target": "19"
+        },
+        {
+          "source": "21",
+          "target": "16"
+        },
+        {
+          "source": "21",
+          "target": "17"
+        },
+        {
+          "source": "21",
+          "target": "18"
+        },
+        {
+          "source": "21",
+          "target": "19"
+        },
+        {
+          "source": "21",
+          "target": "20"
+        },
+        {
+          "source": "22",
+          "target": "16"
+        },
+        {
+          "source": "22",
+          "target": "17"
+        },
+        {
+          "source": "22",
+          "target": "18"
+        },
+        {
+          "source": "22",
+          "target": "19"
+        },
+        {
+          "source": "22",
+          "target": "20"
+        },
+        {
+          "source": "22",
+          "target": "21"
+        },
+        {
+          "source": "23",
+          "target": "11"
+        },
+        {
+          "source": "23",
+          "target": "12"
+        },
+        {
+          "source": "23",
+          "target": "16"
+        },
+        {
+          "source": "23",
+          "target": "17"
+        },
+        {
+          "source": "23",
+          "target": "18"
+        },
+        {
+          "source": "23",
+          "target": "19"
+        },
+        {
+          "source": "23",
+          "target": "20"
+        },
+        {
+          "source": "23",
+          "target": "21"
+        },
+        {
+          "source": "23",
+          "target": "22"
+        },
+        {
+          "source": "24",
+          "target": "11"
+        },
+        {
+          "source": "24",
+          "target": "23"
+        },
+        {
+          "source": "25",
+          "target": "11"
+        },
+        {
+          "source": "25",
+          "target": "23"
+        },
+        {
+          "source": "25",
+          "target": "24"
+        },
+        {
+          "source": "26",
+          "target": "11"
+        },
+        {
+          "source": "26",
+          "target": "16"
+        },
+        {
+          "source": "26",
+          "target": "24"
+        },
+        {
+          "source": "26",
+          "target": "25"
+        },
+        {
+          "source": "27",
+          "target": "11"
+        },
+        {
+          "source": "27",
+          "target": "23"
+        },
+        {
+          "source": "27",
+          "target": "24"
+        },
+        {
+          "source": "27",
+          "target": "25"
+        },
+        {
+          "source": "27",
+          "target": "26"
+        },
+        {
+          "source": "28",
+          "target": "11"
+        },
+        {
+          "source": "28",
+          "target": "27"
+        },
+        {
+          "source": "29",
+          "target": "11"
+        },
+        {
+          "source": "29",
+          "target": "23"
+        },
+        {
+          "source": "29",
+          "target": "27"
+        },
+        {
+          "source": "30",
+          "target": "23"
+        },
+        {
+          "source": "31",
+          "target": "11"
+        },
+        {
+          "source": "31",
+          "target": "23"
+        },
+        {
+          "source": "31",
+          "target": "27"
+        },
+        {
+          "source": "31",
+          "target": "30"
+        },
+        {
+          "source": "32",
+          "target": "11"
+        },
+        {
+          "source": "33",
+          "target": "11"
+        },
+        {
+          "source": "33",
+          "target": "27"
+        },
+        {
+          "source": "34",
+          "target": "11"
+        },
+        {
+          "source": "34",
+          "target": "29"
+        },
+        {
+          "source": "35",
+          "target": "11"
+        },
+        {
+          "source": "35",
+          "target": "29"
+        },
+        {
+          "source": "35",
+          "target": "34"
+        },
+        {
+          "source": "36",
+          "target": "11"
+        },
+        {
+          "source": "36",
+          "target": "29"
+        },
+        {
+          "source": "36",
+          "target": "34"
+        },
+        {
+          "source": "36",
+          "target": "35"
+        },
+        {
+          "source": "37",
+          "target": "11"
+        },
+        {
+          "source": "37",
+          "target": "29"
+        },
+        {
+          "source": "37",
+          "target": "34"
+        },
+        {
+          "source": "37",
+          "target": "35"
+        },
+        {
+          "source": "37",
+          "target": "36"
+        },
+        {
+          "source": "38",
+          "target": "11"
+        },
+        {
+          "source": "38",
+          "target": "29"
+        },
+        {
+          "source": "38",
+          "target": "34"
+        },
+        {
+          "source": "38",
+          "target": "35"
+        },
+        {
+          "source": "38",
+          "target": "36"
+        },
+        {
+          "source": "38",
+          "target": "37"
+        },
+        {
+          "source": "39",
+          "target": "25"
+        },
+        {
+          "source": "40",
+          "target": "25"
+        },
+        {
+          "source": "41",
+          "target": "24"
+        },
+        {
+          "source": "41",
+          "target": "25"
+        },
+        {
+          "source": "42",
+          "target": "24"
+        },
+        {
+          "source": "42",
+          "target": "25"
+        },
+        {
+          "source": "42",
+          "target": "41"
+        },
+        {
+          "source": "43",
+          "target": "11"
+        },
+        {
+          "source": "43",
+          "target": "26"
+        },
+        {
+          "source": "43",
+          "target": "27"
+        },
+        {
+          "source": "44",
+          "target": "11"
+        },
+        {
+          "source": "44",
+          "target": "28"
+        },
+        {
+          "source": "45",
+          "target": "28"
+        },
+        {
+          "source": "47",
+          "target": "46"
+        },
+        {
+          "source": "48",
+          "target": "11"
+        },
+        {
+          "source": "48",
+          "target": "25"
+        },
+        {
+          "source": "48",
+          "target": "27"
+        },
+        {
+          "source": "48",
+          "target": "47"
+        },
+        {
+          "source": "49",
+          "target": "11"
+        },
+        {
+          "source": "49",
+          "target": "26"
+        },
+        {
+          "source": "50",
+          "target": "24"
+        },
+        {
+          "source": "50",
+          "target": "49"
+        },
+        {
+          "source": "51",
+          "target": "11"
+        },
+        {
+          "source": "51",
+          "target": "26"
+        },
+        {
+          "source": "51",
+          "target": "49"
+        },
+        {
+          "source": "52",
+          "target": "39"
+        },
+        {
+          "source": "52",
+          "target": "51"
+        },
+        {
+          "source": "53",
+          "target": "51"
+        },
+        {
+          "source": "54",
+          "target": "26"
+        },
+        {
+          "source": "54",
+          "target": "49"
+        },
+        {
+          "source": "54",
+          "target": "51"
+        },
+        {
+          "source": "55",
+          "target": "11"
+        },
+        {
+          "source": "55",
+          "target": "16"
+        },
+        {
+          "source": "55",
+          "target": "25"
+        },
+        {
+          "source": "55",
+          "target": "26"
+        },
+        {
+          "source": "55",
+          "target": "39"
+        },
+        {
+          "source": "55",
+          "target": "41"
+        },
+        {
+          "source": "55",
+          "target": "48"
+        },
+        {
+          "source": "55",
+          "target": "49"
+        },
+        {
+          "source": "55",
+          "target": "51"
+        },
+        {
+          "source": "55",
+          "target": "54"
+        },
+        {
+          "source": "56",
+          "target": "49"
+        },
+        {
+          "source": "56",
+          "target": "55"
+        },
+        {
+          "source": "57",
+          "target": "41"
+        },
+        {
+          "source": "57",
+          "target": "48"
+        },
+        {
+          "source": "57",
+          "target": "55"
+        },
+        {
+          "source": "58",
+          "target": "11"
+        },
+        {
+          "source": "58",
+          "target": "27"
+        },
+        {
+          "source": "58",
+          "target": "48"
+        },
+        {
+          "source": "58",
+          "target": "55"
+        },
+        {
+          "source": "58",
+          "target": "57"
+        },
+        {
+          "source": "59",
+          "target": "48"
+        },
+        {
+          "source": "59",
+          "target": "55"
+        },
+        {
+          "source": "59",
+          "target": "57"
+        },
+        {
+          "source": "59",
+          "target": "58"
+        },
+        {
+          "source": "60",
+          "target": "48"
+        },
+        {
+          "source": "60",
+          "target": "58"
+        },
+        {
+          "source": "60",
+          "target": "59"
+        },
+        {
+          "source": "61",
+          "target": "48"
+        },
+        {
+          "source": "61",
+          "target": "55"
+        },
+        {
+          "source": "61",
+          "target": "57"
+        },
+        {
+          "source": "61",
+          "target": "58"
+        },
+        {
+          "source": "61",
+          "target": "59"
+        },
+        {
+          "source": "61",
+          "target": "60"
+        },
+        {
+          "source": "62",
+          "target": "41"
+        },
+        {
+          "source": "62",
+          "target": "48"
+        },
+        {
+          "source": "62",
+          "target": "55"
+        },
+        {
+          "source": "62",
+          "target": "57"
+        },
+        {
+          "source": "62",
+          "target": "58"
+        },
+        {
+          "source": "62",
+          "target": "59"
+        },
+        {
+          "source": "62",
+          "target": "60"
+        },
+        {
+          "source": "62",
+          "target": "61"
+        },
+        {
+          "source": "63",
+          "target": "48"
+        },
+        {
+          "source": "63",
+          "target": "55"
+        },
+        {
+          "source": "63",
+          "target": "57"
+        },
+        {
+          "source": "63",
+          "target": "58"
+        },
+        {
+          "source": "63",
+          "target": "59"
+        },
+        {
+          "source": "63",
+          "target": "60"
+        },
+        {
+          "source": "63",
+          "target": "61"
+        },
+        {
+          "source": "63",
+          "target": "62"
+        },
+        {
+          "source": "64",
+          "target": "11"
+        },
+        {
+          "source": "64",
+          "target": "48"
+        },
+        {
+          "source": "64",
+          "target": "55"
+        },
+        {
+          "source": "64",
+          "target": "57"
+        },
+        {
+          "source": "64",
+          "target": "58"
+        },
+        {
+          "source": "64",
+          "target": "59"
+        },
+        {
+          "source": "64",
+          "target": "60"
+        },
+        {
+          "source": "64",
+          "target": "61"
+        },
+        {
+          "source": "64",
+          "target": "62"
+        },
+        {
+          "source": "64",
+          "target": "63"
+        },
+        {
+          "source": "65",
+          "target": "48"
+        },
+        {
+          "source": "65",
+          "target": "55"
+        },
+        {
+          "source": "65",
+          "target": "57"
+        },
+        {
+          "source": "65",
+          "target": "58"
+        },
+        {
+          "source": "65",
+          "target": "59"
+        },
+        {
+          "source": "65",
+          "target": "60"
+        },
+        {
+          "source": "65",
+          "target": "61"
+        },
+        {
+          "source": "65",
+          "target": "62"
+        },
+        {
+          "source": "65",
+          "target": "63"
+        },
+        {
+          "source": "65",
+          "target": "64"
+        },
+        {
+          "source": "66",
+          "target": "48"
+        },
+        {
+          "source": "66",
+          "target": "58"
+        },
+        {
+          "source": "66",
+          "target": "59"
+        },
+        {
+          "source": "66",
+          "target": "60"
+        },
+        {
+          "source": "66",
+          "target": "61"
+        },
+        {
+          "source": "66",
+          "target": "62"
+        },
+        {
+          "source": "66",
+          "target": "63"
+        },
+        {
+          "source": "66",
+          "target": "64"
+        },
+        {
+          "source": "66",
+          "target": "65"
+        },
+        {
+          "source": "67",
+          "target": "57"
+        },
+        {
+          "source": "68",
+          "target": "11"
+        },
+        {
+          "source": "68",
+          "target": "24"
+        },
+        {
+          "source": "68",
+          "target": "25"
+        },
+        {
+          "source": "68",
+          "target": "27"
+        },
+        {
+          "source": "68",
+          "target": "41"
+        },
+        {
+          "source": "68",
+          "target": "48"
+        },
+        {
+          "source": "69",
+          "target": "11"
+        },
+        {
+          "source": "69",
+          "target": "24"
+        },
+        {
+          "source": "69",
+          "target": "25"
+        },
+        {
+          "source": "69",
+          "target": "27"
+        },
+        {
+          "source": "69",
+          "target": "41"
+        },
+        {
+          "source": "69",
+          "target": "48"
+        },
+        {
+          "source": "69",
+          "target": "68"
+        },
+        {
+          "source": "70",
+          "target": "11"
+        },
+        {
+          "source": "70",
+          "target": "24"
+        },
+        {
+          "source": "70",
+          "target": "25"
+        },
+        {
+          "source": "70",
+          "target": "27"
+        },
+        {
+          "source": "70",
+          "target": "41"
+        },
+        {
+          "source": "70",
+          "target": "58"
+        },
+        {
+          "source": "70",
+          "target": "68"
+        },
+        {
+          "source": "70",
+          "target": "69"
+        },
+        {
+          "source": "71",
+          "target": "11"
+        },
+        {
+          "source": "71",
+          "target": "25"
+        },
+        {
+          "source": "71",
+          "target": "27"
+        },
+        {
+          "source": "71",
+          "target": "41"
+        },
+        {
+          "source": "71",
+          "target": "48"
+        },
+        {
+          "source": "71",
+          "target": "68"
+        },
+        {
+          "source": "71",
+          "target": "69"
+        },
+        {
+          "source": "71",
+          "target": "70"
+        },
+        {
+          "source": "72",
+          "target": "11"
+        },
+        {
+          "source": "72",
+          "target": "26"
+        },
+        {
+          "source": "72",
+          "target": "27"
+        },
+        {
+          "source": "73",
+          "target": "48"
+        },
+        {
+          "source": "74",
+          "target": "48"
+        },
+        {
+          "source": "74",
+          "target": "73"
+        },
+        {
+          "source": "75",
+          "target": "25"
+        },
+        {
+          "source": "75",
+          "target": "41"
+        },
+        {
+          "source": "75",
+          "target": "48"
+        },
+        {
+          "source": "75",
+          "target": "68"
+        },
+        {
+          "source": "75",
+          "target": "69"
+        },
+        {
+          "source": "75",
+          "target": "70"
+        },
+        {
+          "source": "75",
+          "target": "71"
+        },
+        {
+          "source": "76",
+          "target": "48"
+        },
+        {
+          "source": "76",
+          "target": "58"
+        },
+        {
+          "source": "76",
+          "target": "62"
+        },
+        {
+          "source": "76",
+          "target": "63"
+        },
+        {
+          "source": "76",
+          "target": "64"
+        },
+        {
+          "source": "76",
+          "target": "65"
+        },
+        {
+          "source": "76",
+          "target": "66"
+        }
+      ],
+    "categories": [
+        {
+            "name": "A"
+        },
+        {
+            "name": "B"
+        }
+    ]
+}
