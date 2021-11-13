@@ -1,0 +1,4797 @@
+{
+    "nodes": [
+        {
+            "nu_cpfcnpj": "00000008086443",
+            "name": "RADSON DOS SANTOS LEITE",
+            "n_licitacoes": 78,
+            "n_vencedora": 11,
+            "node_id": "RADSON DOS SANTOS LEITE (CNPJ: 00000008086443)",
+            "prop_vencedoras": 0.141,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "00002696686408",
+            "name": "OTONI COSTA DE MEDEIROS",
+            "n_licitacoes": 67,
+            "n_vencedora": 6,
+            "node_id": "OTONI COSTA DE MEDEIROS (CNPJ: 00002696686408)",
+            "prop_vencedoras": 0.0896,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "00007235534400",
+            "name": "ALAIDE MARQUES DE SOUSA",
+            "n_licitacoes": 76,
+            "n_vencedora": 25,
+            "node_id": "ALAIDE MARQUES DE SOUSA (CNPJ: 00007235534400)",
+            "prop_vencedoras": 0.3289,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "00009613285415",
+            "name": "FRANCISCO VIVALDO JACOME DE OLIVEIRA",
+            "n_licitacoes": 98,
+            "n_vencedora": 92,
+            "node_id": "FRANCISCO VIVALDO JACOME DE OLIVEIRA (CNPJ: 00009613285415)",
+            "prop_vencedoras": 0.9388,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "00013155970472",
+            "name": "VILSON LACERDA BRASILEIRO",
+            "n_licitacoes": 142,
+            "n_vencedora": 88,
+            "node_id": "VILSON LACERDA BRASILEIRO (CNPJ: 00013155970472)",
+            "prop_vencedoras": 0.6197,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "00020532121449",
+            "name": "ASSENDINO SUASSUNA MARTINS",
+            "n_licitacoes": 76,
+            "n_vencedora": 10,
+            "node_id": "ASSENDINO SUASSUNA MARTINS (CNPJ: 00020532121449)",
+            "prop_vencedoras": 0.1316,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "00047798408487",
+            "name": "CLAIR LEITAO MARTINS",
+            "n_licitacoes": 110,
+            "n_vencedora": 52,
+            "node_id": "CLAIR LEITAO MARTINS (CNPJ: 00047798408487)",
+            "prop_vencedoras": 0.4727,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "00047799293420",
+            "name": "ADERALDO SERAFIM DE SOUSA",
+            "n_licitacoes": 332,
+            "n_vencedora": 131,
+            "node_id": "ADERALDO SERAFIM DE SOUSA (CNPJ: 00047799293420)",
+            "prop_vencedoras": 0.3946,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "00088564355434",
+            "name": "ERISVALDO GOMES DE MELO",
+            "n_licitacoes": 82,
+            "n_vencedora": 3,
+            "node_id": "ERISVALDO GOMES DE MELO (CNPJ: 00088564355434)",
+            "prop_vencedoras": 0.0366,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "00198693000179",
+            "name": "LUZIA DE AQUINO FERREIRA",
+            "n_licitacoes": 282,
+            "n_vencedora": 171,
+            "node_id": "LUZIA DE AQUINO FERREIRA (CNPJ: 00198693000179)",
+            "prop_vencedoras": 0.6064,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "00301402000126",
+            "name": "MARIA DE FATIMA SILVA SOUZA - ME",
+            "n_licitacoes": 84,
+            "n_vencedora": 67,
+            "node_id": "MARIA DE FATIMA SILVA SOUZA - ME (CNPJ: 00301402000126)",
+            "prop_vencedoras": 0.7976,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "00324614000129",
+            "name": "SCANNER STUDIO GRAFICO LTDA",
+            "n_licitacoes": 117,
+            "n_vencedora": 40,
+            "node_id": "SCANNER STUDIO GRAFICO LTDA (CNPJ: 00324614000129)",
+            "prop_vencedoras": 0.3419,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "00412020000170",
+            "name": "PAPELARIA ROCHA LTDA",
+            "n_licitacoes": 198,
+            "n_vencedora": 127,
+            "node_id": "PAPELARIA ROCHA LTDA (CNPJ: 00412020000170)",
+            "prop_vencedoras": 0.6414,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "00604184000107",
+            "name": "FARMÁCIA WILSON LTDA",
+            "n_licitacoes": 72,
+            "n_vencedora": 38,
+            "node_id": "FARMÁCIA WILSON LTDA (CNPJ: 00604184000107)",
+            "prop_vencedoras": 0.5278,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "00622097000174",
+            "name": "A.C. PNEUS LTDA",
+            "n_licitacoes": 419,
+            "n_vencedora": 117,
+            "node_id": "A.C. PNEUS LTDA (CNPJ: 00622097000174)",
+            "prop_vencedoras": 0.2792,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "00642923000147",
+            "name": "GRµFICA E EDITORA SANT ANA LTDA",
+            "n_licitacoes": 241,
+            "n_vencedora": 120,
+            "node_id": "GRµFICA E EDITORA SANT ANA LTDA (CNPJ: 00642923000147)",
+            "prop_vencedoras": 0.4979,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "00785860000188",
+            "name": "ATL ALIMENTOS DO BRASIL LTDA",
+            "n_licitacoes": 666,
+            "n_vencedora": 422,
+            "node_id": "ATL ALIMENTOS DO BRASIL LTDA (CNPJ: 00785860000188)",
+            "prop_vencedoras": 0.6336,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "00858337000134",
+            "name": "INTERMED COMERCIO LTDA",
+            "n_licitacoes": 269,
+            "n_vencedora": 76,
+            "node_id": "INTERMED COMERCIO LTDA (CNPJ: 00858337000134)",
+            "prop_vencedoras": 0.2825,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "00879316000103",
+            "name": "BERG INDUSTRIA E COMERCIO DE CONFECCOES LTDA",
+            "n_licitacoes": 138,
+            "n_vencedora": 77,
+            "node_id": "BERG INDUSTRIA E COMERCIO DE CONFECCOES LTDA (CNPJ: 00879316000103)",
+            "prop_vencedoras": 0.558,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "00930087000104",
+            "name": "PRENER",
+            "n_licitacoes": 152,
+            "n_vencedora": 43,
+            "node_id": "PRENER (CNPJ: 00930087000104)",
+            "prop_vencedoras": 0.2829,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "00958548000149",
+            "name": "DROGARIA DROGAVISTA LTDA",
+            "n_licitacoes": 209,
+            "n_vencedora": 91,
+            "node_id": "DROGARIA DROGAVISTA LTDA (CNPJ: 00958548000149)",
+            "prop_vencedoras": 0.4354,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "00958548000220",
+            "name": "DROGARIA DROGAVISTA LTDA",
+            "n_licitacoes": 283,
+            "n_vencedora": 207,
+            "node_id": "DROGARIA DROGAVISTA LTDA (CNPJ: 00958548000220)",
+            "prop_vencedoras": 0.7314,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "00995371000150",
+            "name": "STOCK COMERCIAL HOSPITALAR LTDA",
+            "n_licitacoes": 194,
+            "n_vencedora": 173,
+            "node_id": "STOCK COMERCIAL HOSPITALAR LTDA (CNPJ: 00995371000150)",
+            "prop_vencedoras": 0.8918,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "01067590000132",
+            "name": "POSTO MILÊNIO - P & A EMPREENDIMENTOS COM. LTDA",
+            "n_licitacoes": 101,
+            "n_vencedora": 35,
+            "node_id": "POSTO MILÊNIO - P & A EMPREENDIMENTOS COM. LTDA (CNPJ: 01067590000132)",
+            "prop_vencedoras": 0.3465,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "01081707000132",
+            "name": "KILAMPADAS MATERIAL ELETRICO LTDA",
+            "n_licitacoes": 203,
+            "n_vencedora": 32,
+            "node_id": "KILAMPADAS MATERIAL ELETRICO LTDA (CNPJ: 01081707000132)",
+            "prop_vencedoras": 0.1576,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "01280149000134",
+            "name": "IND.E COM. EDITORA GRAFICA DAVID LTDA",
+            "n_licitacoes": 114,
+            "n_vencedora": 52,
+            "node_id": "IND.E COM. EDITORA GRAFICA DAVID LTDA (CNPJ: 01280149000134)",
+            "prop_vencedoras": 0.4561,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "01364693000164",
+            "name": "LUCIENE AGUIAR SILVA",
+            "n_licitacoes": 146,
+            "n_vencedora": 55,
+            "node_id": "LUCIENE AGUIAR SILVA (CNPJ: 01364693000164)",
+            "prop_vencedoras": 0.3767,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "01486101000187",
+            "name": "REDEPHARMA LTDA",
+            "n_licitacoes": 222,
+            "n_vencedora": 130,
+            "node_id": "REDEPHARMA LTDA (CNPJ: 01486101000187)",
+            "prop_vencedoras": 0.5856,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "01511184000117",
+            "name": "FRIGORIFICO ALMEIDA LTDA.",
+            "n_licitacoes": 151,
+            "n_vencedora": 141,
+            "node_id": "FRIGORIFICO ALMEIDA LTDA. (CNPJ: 01511184000117)",
+            "prop_vencedoras": 0.9338,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "01524627000104",
+            "name": "CLAUDIO GOMES & CIA LTDA.",
+            "n_licitacoes": 127,
+            "n_vencedora": 89,
+            "node_id": "CLAUDIO GOMES & CIA LTDA. (CNPJ: 01524627000104)",
+            "prop_vencedoras": 0.7008,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "01704290000117",
+            "name": "SAUDE MEDICA COMERCIO LTDA",
+            "n_licitacoes": 665,
+            "n_vencedora": 385,
+            "node_id": "SAUDE MEDICA COMERCIO LTDA (CNPJ: 01704290000117)",
+            "prop_vencedoras": 0.5789,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "01722296000117",
+            "name": "PANORAMA COMERCIO DE PROD. MED. E FARMACEUTICO LTDA",
+            "n_licitacoes": 240,
+            "n_vencedora": 220,
+            "node_id": "PANORAMA COMERCIO DE PROD. MED. E FARMACEUTICO LTDA (CNPJ: 01722296000117)",
+            "prop_vencedoras": 0.9167,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "01727280000105",
+            "name": "JOSIVALDO GONÇALVES LIMA - ME",
+            "n_licitacoes": 100,
+            "n_vencedora": 26,
+            "node_id": "JOSIVALDO GONÇALVES LIMA - ME (CNPJ: 01727280000105)",
+            "prop_vencedoras": 0.26,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "01823326000181",
+            "name": "GEILZA LIMA CAVALCANTE ME",
+            "n_licitacoes": 416,
+            "n_vencedora": 234,
+            "node_id": "GEILZA LIMA CAVALCANTE ME (CNPJ: 01823326000181)",
+            "prop_vencedoras": 0.5625,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "01884446000199",
+            "name": "TECNOVIDA COMERCIAL LTDA",
+            "n_licitacoes": 62,
+            "n_vencedora": 5,
+            "node_id": "TECNOVIDA COMERCIAL LTDA (CNPJ: 01884446000199)",
+            "prop_vencedoras": 0.0806,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "01961103000180",
+            "name": "POSTO POLO",
+            "n_licitacoes": 111,
+            "n_vencedora": 64,
+            "node_id": "POSTO POLO (CNPJ: 01961103000180)",
+            "prop_vencedoras": 0.5766,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "01988925000155",
+            "name": "CORE-Com. e Rep. de Prod. Odont. Medico Hospitalar Ltda",
+            "n_licitacoes": 164,
+            "n_vencedora": 71,
+            "node_id": "CORE-Com. e Rep. de Prod. Odont. Medico Hospitalar Ltda (CNPJ: 01988925000155)",
+            "prop_vencedoras": 0.4329,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "01993197000170",
+            "name": "CONSTRUTORA CONCRETO LTDA",
+            "n_licitacoes": 86,
+            "n_vencedora": 22,
+            "node_id": "CONSTRUTORA CONCRETO LTDA (CNPJ: 01993197000170)",
+            "prop_vencedoras": 0.2558,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "02044971000169",
+            "name": "O CEARENSE DISTRIBUIDORA DE PECAS LTDA.",
+            "n_licitacoes": 308,
+            "n_vencedora": 142,
+            "node_id": "O CEARENSE DISTRIBUIDORA DE PECAS LTDA. (CNPJ: 02044971000169)",
+            "prop_vencedoras": 0.461,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "02211942000144",
+            "name": "FUNDAÇÃO ALLYRIO MEIRA WANDERLEY",
+            "n_licitacoes": 156,
+            "n_vencedora": 43,
+            "node_id": "FUNDAÇÃO ALLYRIO MEIRA WANDERLEY (CNPJ: 02211942000144)",
+            "prop_vencedoras": 0.2756,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "02213325000269",
+            "name": "PLUGNET COMÉRCIO E REPRESENTAÇÕES LTDA",
+            "n_licitacoes": 304,
+            "n_vencedora": 158,
+            "node_id": "PLUGNET COMÉRCIO E REPRESENTAÇÕES LTDA (CNPJ: 02213325000269)",
+            "prop_vencedoras": 0.5197,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "02214230000189",
+            "name": "MARLI GOMES DE ARAUJO--ME",
+            "n_licitacoes": 52,
+            "n_vencedora": 17,
+            "node_id": "MARLI GOMES DE ARAUJO--ME (CNPJ: 02214230000189)",
+            "prop_vencedoras": 0.3269,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "02368789000163",
+            "name": "JEAN ALISSON DA SILVA CORREIA",
+            "n_licitacoes": 120,
+            "n_vencedora": 108,
+            "node_id": "JEAN ALISSON DA SILVA CORREIA (CNPJ: 02368789000163)",
+            "prop_vencedoras": 0.9,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "02372375000108",
+            "name": "ANA CLAUDIO DE OLIVEIRA GALVAO ME LTDA",
+            "n_licitacoes": 143,
+            "n_vencedora": 17,
+            "node_id": "ANA CLAUDIO DE OLIVEIRA GALVAO ME LTDA (CNPJ: 02372375000108)",
+            "prop_vencedoras": 0.1189,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "02375199000168",
+            "name": "ELETROPOLO ELETRICIDADE LTDA",
+            "n_licitacoes": 96,
+            "n_vencedora": 74,
+            "node_id": "ELETROPOLO ELETRICIDADE LTDA (CNPJ: 02375199000168)",
+            "prop_vencedoras": 0.7708,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "02389627000101",
+            "name": "DOROTEU CONSTRUTORA LTDA",
+            "n_licitacoes": 159,
+            "n_vencedora": 67,
+            "node_id": "DOROTEU CONSTRUTORA LTDA (CNPJ: 02389627000101)",
+            "prop_vencedoras": 0.4214,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "02395667000166",
+            "name": "ALIN-Alimentos do Nordeste(Evandi Francisco da Silva)",
+            "n_licitacoes": 106,
+            "n_vencedora": 21,
+            "node_id": "ALIN-Alimentos do Nordeste(Evandi Francisco da Silva) (CNPJ: 02395667000166)",
+            "prop_vencedoras": 0.1981,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "02421514000146",
+            "name": "LAB FARMA COMÉRCIO E REPRESENTAÇÕES LTDA.",
+            "n_licitacoes": 65,
+            "n_vencedora": 42,
+            "node_id": "LAB FARMA COMÉRCIO E REPRESENTAÇÕES LTDA. (CNPJ: 02421514000146)",
+            "prop_vencedoras": 0.6462,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "02445490000165",
+            "name": "ANTONIO DE ARAUJO AMORIM - ELETRO LASER",
+            "n_licitacoes": 110,
+            "n_vencedora": 87,
+            "node_id": "ANTONIO DE ARAUJO AMORIM - ELETRO LASER (CNPJ: 02445490000165)",
+            "prop_vencedoras": 0.7909,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "02453916000122",
+            "name": "IDEIA CONSULTORIA,GERENCIAMENTO E PLANEJAMENTO LTDA",
+            "n_licitacoes": 246,
+            "n_vencedora": 106,
+            "node_id": "IDEIA CONSULTORIA,GERENCIAMENTO E PLANEJAMENTO LTDA (CNPJ: 02453916000122)",
+            "prop_vencedoras": 0.4309,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "02538085000191",
+            "name": "DATASOL INFORMATICA, COMERCIO E SERVICOS LTDA - ME",
+            "n_licitacoes": 201,
+            "n_vencedora": 64,
+            "node_id": "DATASOL INFORMATICA, COMERCIO E SERVICOS LTDA - ME (CNPJ: 02538085000191)",
+            "prop_vencedoras": 0.3184,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "02581717000108",
+            "name": "J. J. CALADO - José João Calado",
+            "n_licitacoes": 198,
+            "n_vencedora": 113,
+            "node_id": "J. J. CALADO - José João Calado (CNPJ: 02581717000108)",
+            "prop_vencedoras": 0.5707,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "02583263000104",
+            "name": "FREITAS COMÉRCIO  DE PAPELARIA LTDA",
+            "n_licitacoes": 67,
+            "n_vencedora": 16,
+            "node_id": "FREITAS COMÉRCIO  DE PAPELARIA LTDA (CNPJ: 02583263000104)",
+            "prop_vencedoras": 0.2388,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "02685197000175",
+            "name": "MILTONIZIA CORREIA LIMA BORBA",
+            "n_licitacoes": 261,
+            "n_vencedora": 79,
+            "node_id": "MILTONIZIA CORREIA LIMA BORBA (CNPJ: 02685197000175)",
+            "prop_vencedoras": 0.3027,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "02896042000188",
+            "name": "REALMED COMERCIO DE PRODUTOS MEDICOS E HOSPITALARES LTDA",
+            "n_licitacoes": 458,
+            "n_vencedora": 110,
+            "node_id": "REALMED COMERCIO DE PRODUTOS MEDICOS E HOSPITALARES LTDA (CNPJ: 02896042000188)",
+            "prop_vencedoras": 0.2402,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "02914690000110",
+            "name": "COPY LINE COMERCIO E SERVICOS LTDA - ME",
+            "n_licitacoes": 239,
+            "n_vencedora": 168,
+            "node_id": "COPY LINE COMERCIO E SERVICOS LTDA - ME (CNPJ: 02914690000110)",
+            "prop_vencedoras": 0.7029,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "02927946000123",
+            "name": "Aldrin Coutinho de Araújo",
+            "n_licitacoes": 81,
+            "n_vencedora": 63,
+            "node_id": "Aldrin Coutinho de Araújo (CNPJ: 02927946000123)",
+            "prop_vencedoras": 0.7778,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "02974662000198",
+            "name": "INTERGRAF GRÁFICA E EDITORA LTDA",
+            "n_licitacoes": 253,
+            "n_vencedora": 142,
+            "node_id": "INTERGRAF GRÁFICA E EDITORA LTDA (CNPJ: 02974662000198)",
+            "prop_vencedoras": 0.5613,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "02977362000162",
+            "name": "A COSTA COM ATAC DE PROD FARM LTDA",
+            "n_licitacoes": 1179,
+            "n_vencedora": 769,
+            "node_id": "A COSTA COM ATAC DE PROD FARM LTDA (CNPJ: 02977362000162)",
+            "prop_vencedoras": 0.6522,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03015341000129",
+            "name": "ELMA DANTAS - ASSP ASSESSORIA E PROJETOS",
+            "n_licitacoes": 136,
+            "n_vencedora": 49,
+            "node_id": "ELMA DANTAS - ASSP ASSESSORIA E PROJETOS (CNPJ: 03015341000129)",
+            "prop_vencedoras": 0.3603,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03025786000190",
+            "name": "NADILANIA MARQUES DE FIGUEREDO",
+            "n_licitacoes": 182,
+            "n_vencedora": 149,
+            "node_id": "NADILANIA MARQUES DE FIGUEREDO (CNPJ: 03025786000190)",
+            "prop_vencedoras": 0.8187,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "03120645000156",
+            "name": "ELRY ANTONIO DE SANTANA",
+            "n_licitacoes": 170,
+            "n_vencedora": 64,
+            "node_id": "ELRY ANTONIO DE SANTANA (CNPJ: 03120645000156)",
+            "prop_vencedoras": 0.3765,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03126792000133",
+            "name": "GRAFICA JM",
+            "n_licitacoes": 155,
+            "n_vencedora": 53,
+            "node_id": "GRAFICA JM (CNPJ: 03126792000133)",
+            "prop_vencedoras": 0.3419,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03127225000100",
+            "name": "MEGATEC-COMÉRCIO E SERVIÇOS TÉCNICOS LTDA",
+            "n_licitacoes": 94,
+            "n_vencedora": 0,
+            "node_id": "MEGATEC-COMÉRCIO E SERVIÇOS TÉCNICOS LTDA (CNPJ: 03127225000100)",
+            "prop_vencedoras": 0,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "03160525000182",
+            "name": "NORT FRUT LTDA",
+            "n_licitacoes": 139,
+            "n_vencedora": 122,
+            "node_id": "NORT FRUT LTDA (CNPJ: 03160525000182)",
+            "prop_vencedoras": 0.8777,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "03241244000154",
+            "name": "CAMPINA PNEUS E PECAS PARA VEICULOS AUTOMOTORES LTDA",
+            "n_licitacoes": 155,
+            "n_vencedora": 89,
+            "node_id": "CAMPINA PNEUS E PECAS PARA VEICULOS AUTOMOTORES LTDA (CNPJ: 03241244000154)",
+            "prop_vencedoras": 0.5742,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03246587000101",
+            "name": "SUFRAMED COM DE MAT MEDICO HOSPITALAR LTDA",
+            "n_licitacoes": 777,
+            "n_vencedora": 460,
+            "node_id": "SUFRAMED COM DE MAT MEDICO HOSPITALAR LTDA (CNPJ: 03246587000101)",
+            "prop_vencedoras": 0.592,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03341410000194",
+            "name": "MAXIM S COMERCIO SERVIÇOS E REPRESENTAÇÕES LTDA",
+            "n_licitacoes": 210,
+            "n_vencedora": 82,
+            "node_id": "MAXIM S COMERCIO SERVIÇOS E REPRESENTAÇÕES LTDA (CNPJ: 03341410000194)",
+            "prop_vencedoras": 0.3905,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03365134000102",
+            "name": "PAULO PONTES DA SILVA",
+            "n_licitacoes": 219,
+            "n_vencedora": 175,
+            "node_id": "PAULO PONTES DA SILVA (CNPJ: 03365134000102)",
+            "prop_vencedoras": 0.7991,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "03467684000124",
+            "name": "MAURILIO DE ALMEIDA MENDES",
+            "n_licitacoes": 309,
+            "n_vencedora": 269,
+            "node_id": "MAURILIO DE ALMEIDA MENDES (CNPJ: 03467684000124)",
+            "prop_vencedoras": 0.8706,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "03500830000176",
+            "name": "RICARDO GUERRA INFORMATICA",
+            "n_licitacoes": 164,
+            "n_vencedora": 107,
+            "node_id": "RICARDO GUERRA INFORMATICA (CNPJ: 03500830000176)",
+            "prop_vencedoras": 0.6524,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03582862000168",
+            "name": "TRIFARMA - COMÉRCIO DE PRODUTOS MÉDICO HOSPITALAR LTDA.",
+            "n_licitacoes": 570,
+            "n_vencedora": 191,
+            "node_id": "TRIFARMA - COMÉRCIO DE PRODUTOS MÉDICO HOSPITALAR LTDA. (CNPJ: 03582862000168)",
+            "prop_vencedoras": 0.3351,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03592746000120",
+            "name": "DJ CONSTRUÇÕES LTDA",
+            "n_licitacoes": 301,
+            "n_vencedora": 94,
+            "node_id": "DJ CONSTRUÇÕES LTDA (CNPJ: 03592746000120)",
+            "prop_vencedoras": 0.3123,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03596979000109",
+            "name": "NORMANDO E CIA LTDA",
+            "n_licitacoes": 95,
+            "n_vencedora": 22,
+            "node_id": "NORMANDO E CIA LTDA (CNPJ: 03596979000109)",
+            "prop_vencedoras": 0.2316,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "03624439000183",
+            "name": "SHOPPING DA ELETRICIDADE COMERCIAL LTDA",
+            "n_licitacoes": 255,
+            "n_vencedora": 122,
+            "node_id": "SHOPPING DA ELETRICIDADE COMERCIAL LTDA (CNPJ: 03624439000183)",
+            "prop_vencedoras": 0.4784,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03652579000165",
+            "name": "RAFAEL ALVES DE ARAUJO - ME",
+            "n_licitacoes": 253,
+            "n_vencedora": 65,
+            "node_id": "RAFAEL ALVES DE ARAUJO - ME (CNPJ: 03652579000165)",
+            "prop_vencedoras": 0.2569,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03683189000152",
+            "name": "LIDER AUTO PECAS LTDA.",
+            "n_licitacoes": 177,
+            "n_vencedora": 76,
+            "node_id": "LIDER AUTO PECAS LTDA. (CNPJ: 03683189000152)",
+            "prop_vencedoras": 0.4294,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03759246000130",
+            "name": "DICAN - COM E REPRESENTAÇÕES LTDA - ME",
+            "n_licitacoes": 401,
+            "n_vencedora": 140,
+            "node_id": "DICAN - COM E REPRESENTAÇÕES LTDA - ME (CNPJ: 03759246000130)",
+            "prop_vencedoras": 0.3491,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03781718000150",
+            "name": "NORDESTE REMANUFARUTA DE CARTUCHOS PARA IMPRESSORA LTDA ME",
+            "n_licitacoes": 321,
+            "n_vencedora": 158,
+            "node_id": "NORDESTE REMANUFARUTA DE CARTUCHOS PARA IMPRESSORA LTDA ME (CNPJ: 03781718000150)",
+            "prop_vencedoras": 0.4922,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03789726000143",
+            "name": "MELO SUPERMERCADO LTDA",
+            "n_licitacoes": 192,
+            "n_vencedora": 85,
+            "node_id": "MELO SUPERMERCADO LTDA (CNPJ: 03789726000143)",
+            "prop_vencedoras": 0.4427,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03817043000152",
+            "name": "PHARMAPLUS LTDA",
+            "n_licitacoes": 236,
+            "n_vencedora": 226,
+            "node_id": "PHARMAPLUS LTDA (CNPJ: 03817043000152)",
+            "prop_vencedoras": 0.9576,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "03841826000171",
+            "name": "MARIA DUCILENE GONÇALVES",
+            "n_licitacoes": 114,
+            "n_vencedora": 56,
+            "node_id": "MARIA DUCILENE GONÇALVES (CNPJ: 03841826000171)",
+            "prop_vencedoras": 0.4912,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03862365000113",
+            "name": "H.R. PEÇAS ACESSORIOS E SERVIÇOS LTDA",
+            "n_licitacoes": 102,
+            "n_vencedora": 34,
+            "node_id": "H.R. PEÇAS ACESSORIOS E SERVIÇOS LTDA (CNPJ: 03862365000113)",
+            "prop_vencedoras": 0.3333,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03910482000105",
+            "name": "MULT JET INFORMATICA LTDA",
+            "n_licitacoes": 73,
+            "n_vencedora": 18,
+            "node_id": "MULT JET INFORMATICA LTDA (CNPJ: 03910482000105)",
+            "prop_vencedoras": 0.2466,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "03965517000103",
+            "name": "ORTOSHOP COMERCIO LTDA ME",
+            "n_licitacoes": 132,
+            "n_vencedora": 124,
+            "node_id": "ORTOSHOP COMERCIO LTDA ME (CNPJ: 03965517000103)",
+            "prop_vencedoras": 0.9394,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "03966406000111",
+            "name": "FRANCINELMA DA SILVA CAMPOS",
+            "n_licitacoes": 130,
+            "n_vencedora": 77,
+            "node_id": "FRANCINELMA DA SILVA CAMPOS (CNPJ: 03966406000111)",
+            "prop_vencedoras": 0.5923,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "03982836000127",
+            "name": "CONSTRUTORA CAPITAL URBANIZAÇÃO E SERVIÇOS LTDA",
+            "n_licitacoes": 123,
+            "n_vencedora": 16,
+            "node_id": "CONSTRUTORA CAPITAL URBANIZAÇÃO E SERVIÇOS LTDA (CNPJ: 03982836000127)",
+            "prop_vencedoras": 0.1301,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "04011704000110",
+            "name": "SEVERINO RAMOS GUEDES MATERIAL P/ESCRITORIO - ME",
+            "n_licitacoes": 218,
+            "n_vencedora": 81,
+            "node_id": "SEVERINO RAMOS GUEDES MATERIAL P/ESCRITORIO - ME (CNPJ: 04011704000110)",
+            "prop_vencedoras": 0.3716,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04037302000195",
+            "name": "GRAFICA PONTUAL",
+            "n_licitacoes": 75,
+            "n_vencedora": 16,
+            "node_id": "GRAFICA PONTUAL (CNPJ: 04037302000195)",
+            "prop_vencedoras": 0.2133,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "04063441000193",
+            "name": "SHOP CAR COMERCIO DE PNEUS E SERVIÇOS LTDA",
+            "n_licitacoes": 187,
+            "n_vencedora": 98,
+            "node_id": "SHOP CAR COMERCIO DE PNEUS E SERVIÇOS LTDA (CNPJ: 04063441000193)",
+            "prop_vencedoras": 0.5241,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04064641000160",
+            "name": "DIMEDONT DISTRIBUIDORA DE MEDICAMENTOS E EQUIPAMENTOS LTDA",
+            "n_licitacoes": 472,
+            "n_vencedora": 414,
+            "node_id": "DIMEDONT DISTRIBUIDORA DE MEDICAMENTOS E EQUIPAMENTOS LTDA (CNPJ: 04064641000160)",
+            "prop_vencedoras": 0.8771,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "04067695000180",
+            "name": "IMPORT INFORMATICA LTDA",
+            "n_licitacoes": 248,
+            "n_vencedora": 152,
+            "node_id": "IMPORT INFORMATICA LTDA (CNPJ: 04067695000180)",
+            "prop_vencedoras": 0.6129,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04170764000186",
+            "name": "DOMUS - DISTRIBUIDORA DE PRODUTOS FARMACEUTICOS LT",
+            "n_licitacoes": 132,
+            "n_vencedora": 112,
+            "node_id": "DOMUS - DISTRIBUIDORA DE PRODUTOS FARMACEUTICOS LT (CNPJ: 04170764000186)",
+            "prop_vencedoras": 0.8485,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "04182060000123",
+            "name": "FB CONSTRUTORA LTDA",
+            "n_licitacoes": 157,
+            "n_vencedora": 76,
+            "node_id": "FB CONSTRUTORA LTDA (CNPJ: 04182060000123)",
+            "prop_vencedoras": 0.4841,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04202582000140",
+            "name": "CONSTRUTORA IPANEMA LTDA.",
+            "n_licitacoes": 159,
+            "n_vencedora": 66,
+            "node_id": "CONSTRUTORA IPANEMA LTDA. (CNPJ: 04202582000140)",
+            "prop_vencedoras": 0.4151,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04264919000143",
+            "name": "CONSTRUTORA GRAÇA LTDA",
+            "n_licitacoes": 214,
+            "n_vencedora": 77,
+            "node_id": "CONSTRUTORA GRAÇA LTDA (CNPJ: 04264919000143)",
+            "prop_vencedoras": 0.3598,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04324360000108",
+            "name": "CONSTRUTORA CAIÇARA LTDA",
+            "n_licitacoes": 86,
+            "n_vencedora": 32,
+            "node_id": "CONSTRUTORA CAIÇARA LTDA (CNPJ: 04324360000108)",
+            "prop_vencedoras": 0.3721,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04358604000165",
+            "name": "EDITORA E GRAFICA VITORIANO LTDA",
+            "n_licitacoes": 138,
+            "n_vencedora": 108,
+            "node_id": "EDITORA E GRAFICA VITORIANO LTDA (CNPJ: 04358604000165)",
+            "prop_vencedoras": 0.7826,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "04370647000166",
+            "name": "FRANCILENIA VIEIRA CARDOSO DIAS ME",
+            "n_licitacoes": 251,
+            "n_vencedora": 133,
+            "node_id": "FRANCILENIA VIEIRA CARDOSO DIAS ME (CNPJ: 04370647000166)",
+            "prop_vencedoras": 0.5299,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04398782000110",
+            "name": "FERNANDES E MEDEIROS LTDA.",
+            "n_licitacoes": 118,
+            "n_vencedora": 49,
+            "node_id": "FERNANDES E MEDEIROS LTDA. (CNPJ: 04398782000110)",
+            "prop_vencedoras": 0.4153,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04426571000143",
+            "name": "COMERCIAL VERDEMARES",
+            "n_licitacoes": 161,
+            "n_vencedora": 42,
+            "node_id": "COMERCIAL VERDEMARES (CNPJ: 04426571000143)",
+            "prop_vencedoras": 0.2609,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04505819000161",
+            "name": "DISTRIBUIDORA GUARABIRENSE DE ALIMENTOS LTDA- ME",
+            "n_licitacoes": 81,
+            "n_vencedora": 5,
+            "node_id": "DISTRIBUIDORA GUARABIRENSE DE ALIMENTOS LTDA- ME (CNPJ: 04505819000161)",
+            "prop_vencedoras": 0.0617,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "04509437000106",
+            "name": "IDEAL PEÇAS LTDA",
+            "n_licitacoes": 120,
+            "n_vencedora": 73,
+            "node_id": "IDEAL PEÇAS LTDA (CNPJ: 04509437000106)",
+            "prop_vencedoras": 0.6083,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04595532000170",
+            "name": "EMPREITEIRA NOBREGA LTDA.",
+            "n_licitacoes": 83,
+            "n_vencedora": 28,
+            "node_id": "EMPREITEIRA NOBREGA LTDA. (CNPJ: 04595532000170)",
+            "prop_vencedoras": 0.3373,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04654716000163",
+            "name": "COMERCIAL MEDEIROS LTDA",
+            "n_licitacoes": 327,
+            "n_vencedora": 255,
+            "node_id": "COMERCIAL MEDEIROS LTDA (CNPJ: 04654716000163)",
+            "prop_vencedoras": 0.7798,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "04679119000193",
+            "name": "CRM COMERCIAL LTDA",
+            "n_licitacoes": 213,
+            "n_vencedora": 185,
+            "node_id": "CRM COMERCIAL LTDA (CNPJ: 04679119000193)",
+            "prop_vencedoras": 0.8685,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "04680580000166",
+            "name": "F.SANTOS SUPERMERCADO LTDA.",
+            "n_licitacoes": 184,
+            "n_vencedora": 46,
+            "node_id": "F.SANTOS SUPERMERCADO LTDA. (CNPJ: 04680580000166)",
+            "prop_vencedoras": 0.25,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04731672000128",
+            "name": "NUTRI COMERCIAL LTDA",
+            "n_licitacoes": 231,
+            "n_vencedora": 143,
+            "node_id": "NUTRI COMERCIAL LTDA (CNPJ: 04731672000128)",
+            "prop_vencedoras": 0.619,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04756522000179",
+            "name": "NULTI OBRAS CONSTRUTORA LTDA",
+            "n_licitacoes": 184,
+            "n_vencedora": 45,
+            "node_id": "NULTI OBRAS CONSTRUTORA LTDA (CNPJ: 04756522000179)",
+            "prop_vencedoras": 0.2446,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "04780933000108",
+            "name": "C.M. CONSTRUÇOES MIRANDA LTDA",
+            "n_licitacoes": 223,
+            "n_vencedora": 64,
+            "node_id": "C.M. CONSTRUÇOES MIRANDA LTDA (CNPJ: 04780933000108)",
+            "prop_vencedoras": 0.287,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04826424000160",
+            "name": "SPORTS MAGAZINE LTDA EPP",
+            "n_licitacoes": 586,
+            "n_vencedora": 419,
+            "node_id": "SPORTS MAGAZINE LTDA EPP (CNPJ: 04826424000160)",
+            "prop_vencedoras": 0.715,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04861245000164",
+            "name": "STATUS CONSTRUÇÕES LTDA",
+            "n_licitacoes": 185,
+            "n_vencedora": 46,
+            "node_id": "STATUS CONSTRUÇÕES LTDA (CNPJ: 04861245000164)",
+            "prop_vencedoras": 0.2486,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "04873920000175",
+            "name": "AGL CONSTRUCOES LTDA",
+            "n_licitacoes": 156,
+            "n_vencedora": 57,
+            "node_id": "AGL CONSTRUCOES LTDA (CNPJ: 04873920000175)",
+            "prop_vencedoras": 0.3654,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04904242000160",
+            "name": "PRESTACON-PRESTADORA DE SERVIÇOS E CONSTRUÇÃO LTDA",
+            "n_licitacoes": 358,
+            "n_vencedora": 129,
+            "node_id": "PRESTACON-PRESTADORA DE SERVIÇOS E CONSTRUÇÃO LTDA (CNPJ: 04904242000160)",
+            "prop_vencedoras": 0.3603,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04906156000197",
+            "name": "Granpeças C. e Dist. de Peças Retif. e Serv. LTDA",
+            "n_licitacoes": 119,
+            "n_vencedora": 54,
+            "node_id": "Granpeças C. e Dist. de Peças Retif. e Serv. LTDA (CNPJ: 04906156000197)",
+            "prop_vencedoras": 0.4538,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04913908000147",
+            "name": "CONSTRUTORA BARRAMAS LTDA",
+            "n_licitacoes": 94,
+            "n_vencedora": 39,
+            "node_id": "CONSTRUTORA BARRAMAS LTDA (CNPJ: 04913908000147)",
+            "prop_vencedoras": 0.4149,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04918161000110",
+            "name": "E.ZALMA SOUZA - EPP",
+            "n_licitacoes": 467,
+            "n_vencedora": 272,
+            "node_id": "E.ZALMA SOUZA - EPP (CNPJ: 04918161000110)",
+            "prop_vencedoras": 0.5824,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04922653000189",
+            "name": "NORDESTE HOSPITALAR LTDA",
+            "n_licitacoes": 434,
+            "n_vencedora": 335,
+            "node_id": "NORDESTE HOSPITALAR LTDA (CNPJ: 04922653000189)",
+            "prop_vencedoras": 0.7719,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "04925612000146",
+            "name": "CONSTRUTORA MAVIL LTDA",
+            "n_licitacoes": 215,
+            "n_vencedora": 85,
+            "node_id": "CONSTRUTORA MAVIL LTDA (CNPJ: 04925612000146)",
+            "prop_vencedoras": 0.3953,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04966148000136",
+            "name": "S. J. L. Construções e Serviços Ltda.",
+            "n_licitacoes": 240,
+            "n_vencedora": 79,
+            "node_id": "S. J. L. Construções e Serviços Ltda. (CNPJ: 04966148000136)",
+            "prop_vencedoras": 0.3292,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "04989233000110",
+            "name": "MARCELINO DOS SANTOS",
+            "n_licitacoes": 155,
+            "n_vencedora": 59,
+            "node_id": "MARCELINO DOS SANTOS (CNPJ: 04989233000110)",
+            "prop_vencedoras": 0.3806,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "05000571000140",
+            "name": "HBL VENDAS E SERVICOS DE ARTIGOS MEDICOS E ORTOPEDICOS LTDA.",
+            "n_licitacoes": 187,
+            "n_vencedora": 148,
+            "node_id": "HBL VENDAS E SERVICOS DE ARTIGOS MEDICOS E ORTOPEDICOS LTDA. (CNPJ: 05000571000140)",
+            "prop_vencedoras": 0.7914,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "05065307000194",
+            "name": "J.W. CONSTRUÇÕES LTDA",
+            "n_licitacoes": 102,
+            "n_vencedora": 27,
+            "node_id": "J.W. CONSTRUÇÕES LTDA (CNPJ: 05065307000194)",
+            "prop_vencedoras": 0.2647,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "05122616000159",
+            "name": "DENTAL MEDICA LTDA",
+            "n_licitacoes": 114,
+            "n_vencedora": 76,
+            "node_id": "DENTAL MEDICA LTDA (CNPJ: 05122616000159)",
+            "prop_vencedoras": 0.6667,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "05200234000104",
+            "name": "CELTA CONSTRU€OES L. E CONSERVA€AO LTDA.",
+            "n_licitacoes": 143,
+            "n_vencedora": 51,
+            "node_id": "CELTA CONSTRU€OES L. E CONSERVA€AO LTDA. (CNPJ: 05200234000104)",
+            "prop_vencedoras": 0.3566,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "05253747000175",
+            "name": "HERCILIO PEDRO GOMES - ME",
+            "n_licitacoes": 142,
+            "n_vencedora": 66,
+            "node_id": "HERCILIO PEDRO GOMES - ME (CNPJ: 05253747000175)",
+            "prop_vencedoras": 0.4648,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "05301712000164",
+            "name": "PRIN INFORMATICA LTDA",
+            "n_licitacoes": 247,
+            "n_vencedora": 151,
+            "node_id": "PRIN INFORMATICA LTDA (CNPJ: 05301712000164)",
+            "prop_vencedoras": 0.6113,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "05302037000198",
+            "name": "A BUDEGA DISTRIBUIDORA DE GÊNEROS ALIMENTICIOS E HORTIFRUTIGRANJEIROS LTDA",
+            "n_licitacoes": 372,
+            "n_vencedora": 142,
+            "node_id": "A BUDEGA DISTRIBUIDORA DE GÊNEROS ALIMENTICIOS E HORTIFRUTIGRANJEIROS LTDA (CNPJ: 05302037000198)",
+            "prop_vencedoras": 0.3817,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "05309592000141",
+            "name": "SOMAR CONSTRUTORA LTDA",
+            "n_licitacoes": 144,
+            "n_vencedora": 64,
+            "node_id": "SOMAR CONSTRUTORA LTDA (CNPJ: 05309592000141)",
+            "prop_vencedoras": 0.4444,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "05393059000100",
+            "name": "HML COMERCIAL LTDA",
+            "n_licitacoes": 285,
+            "n_vencedora": 195,
+            "node_id": "HML COMERCIAL LTDA (CNPJ: 05393059000100)",
+            "prop_vencedoras": 0.6842,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "05420850000162",
+            "name": "FRANCISCO EDNALDO DE SOUSA LEITE",
+            "n_licitacoes": 91,
+            "n_vencedora": 37,
+            "node_id": "FRANCISCO EDNALDO DE SOUSA LEITE (CNPJ: 05420850000162)",
+            "prop_vencedoras": 0.4066,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "05449553000140",
+            "name": "TUTTO LIMP DISTRIBUIDORA LTDA",
+            "n_licitacoes": 246,
+            "n_vencedora": 232,
+            "node_id": "TUTTO LIMP DISTRIBUIDORA LTDA (CNPJ: 05449553000140)",
+            "prop_vencedoras": 0.9431,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "05489130000153",
+            "name": "DIAGONAL CONSTRUÇOES LTDA",
+            "n_licitacoes": 142,
+            "n_vencedora": 39,
+            "node_id": "DIAGONAL CONSTRUÇOES LTDA (CNPJ: 05489130000153)",
+            "prop_vencedoras": 0.2746,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "05492161000163",
+            "name": "AMERICA CONSTRUCOES E SERVICOS LTDA - ME",
+            "n_licitacoes": 331,
+            "n_vencedora": 103,
+            "node_id": "AMERICA CONSTRUCOES E SERVICOS LTDA - ME (CNPJ: 05492161000163)",
+            "prop_vencedoras": 0.3112,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "05593405000285",
+            "name": "DENTAL MEDICA COMERCIO E REPRESENTAÇOES LTDA",
+            "n_licitacoes": 497,
+            "n_vencedora": 229,
+            "node_id": "DENTAL MEDICA COMERCIO E REPRESENTAÇOES LTDA (CNPJ: 05593405000285)",
+            "prop_vencedoras": 0.4608,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "05670834000128",
+            "name": "CLIMAR COMERCIO ATACADISTA LTDA",
+            "n_licitacoes": 186,
+            "n_vencedora": 109,
+            "node_id": "CLIMAR COMERCIO ATACADISTA LTDA (CNPJ: 05670834000128)",
+            "prop_vencedoras": 0.586,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "05757746000168",
+            "name": "INEL COMÉRCIO DE MATERIAIS ELETRICOS LTDA",
+            "n_licitacoes": 390,
+            "n_vencedora": 206,
+            "node_id": "INEL COMÉRCIO DE MATERIAIS ELETRICOS LTDA (CNPJ: 05757746000168)",
+            "prop_vencedoras": 0.5282,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "05765913000112",
+            "name": "VENDE TUDO MAGAZINE LTDA",
+            "n_licitacoes": 350,
+            "n_vencedora": 226,
+            "node_id": "VENDE TUDO MAGAZINE LTDA (CNPJ: 05765913000112)",
+            "prop_vencedoras": 0.6457,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "05782733000149",
+            "name": "CIAMED DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+            "n_licitacoes": 72,
+            "n_vencedora": 66,
+            "node_id": "CIAMED DISTRIBUIDORA DE MEDICAMENTOS LTDA (CNPJ: 05782733000149)",
+            "prop_vencedoras": 0.9167,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "05797987000130",
+            "name": "MEDONTEC MAN.E REP. EM EQUIP.MED.HOSP.E ODONT.LTDA",
+            "n_licitacoes": 420,
+            "n_vencedora": 250,
+            "node_id": "MEDONTEC MAN.E REP. EM EQUIP.MED.HOSP.E ODONT.LTDA (CNPJ: 05797987000130)",
+            "prop_vencedoras": 0.5952,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "05811893000179",
+            "name": "CONSTRUTORA HARPAN LTDA",
+            "n_licitacoes": 110,
+            "n_vencedora": 87,
+            "node_id": "CONSTRUTORA HARPAN LTDA (CNPJ: 05811893000179)",
+            "prop_vencedoras": 0.7909,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "05828370000135",
+            "name": "VETOR PREMOLDADOS CONSTRUÇÕES COMERCIO E SERVIÇOS LTDA",
+            "n_licitacoes": 234,
+            "n_vencedora": 54,
+            "node_id": "VETOR PREMOLDADOS CONSTRUÇÕES COMERCIO E SERVIÇOS LTDA (CNPJ: 05828370000135)",
+            "prop_vencedoras": 0.2308,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "05896491000114",
+            "name": "BIOTEC COM. DE MATERIAIS MEDICO HOSPITALAR LTDA",
+            "n_licitacoes": 227,
+            "n_vencedora": 202,
+            "node_id": "BIOTEC COM. DE MATERIAIS MEDICO HOSPITALAR LTDA (CNPJ: 05896491000114)",
+            "prop_vencedoras": 0.8899,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "05905065000108",
+            "name": "ECOPLAN CONTABILIDADE E SOFWARES LTDA",
+            "n_licitacoes": 469,
+            "n_vencedora": 372,
+            "node_id": "ECOPLAN CONTABILIDADE E SOFWARES LTDA (CNPJ: 05905065000108)",
+            "prop_vencedoras": 0.7932,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "05913968000122",
+            "name": "LEMOS & MORAIS LTDA",
+            "n_licitacoes": 132,
+            "n_vencedora": 85,
+            "node_id": "LEMOS & MORAIS LTDA (CNPJ: 05913968000122)",
+            "prop_vencedoras": 0.6439,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "05922283000142",
+            "name": "KLICK CONSULTORIA E ASSESSORIA LTDA",
+            "n_licitacoes": 96,
+            "n_vencedora": 3,
+            "node_id": "KLICK CONSULTORIA E ASSESSORIA LTDA (CNPJ: 05922283000142)",
+            "prop_vencedoras": 0.0312,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "05932624000160",
+            "name": "MEGAMED COMÉRCIO LTDA",
+            "n_licitacoes": 155,
+            "n_vencedora": 127,
+            "node_id": "MEGAMED COMÉRCIO LTDA (CNPJ: 05932624000160)",
+            "prop_vencedoras": 0.8194,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "06021558000130",
+            "name": "PREÇO EXTRA MERCEARIA LTDA",
+            "n_licitacoes": 168,
+            "n_vencedora": 83,
+            "node_id": "PREÇO EXTRA MERCEARIA LTDA (CNPJ: 06021558000130)",
+            "prop_vencedoras": 0.494,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "06182755000130",
+            "name": "CONSTRUTORA CONSTRULAR LTDA",
+            "n_licitacoes": 157,
+            "n_vencedora": 100,
+            "node_id": "CONSTRUTORA CONSTRULAR LTDA (CNPJ: 06182755000130)",
+            "prop_vencedoras": 0.6369,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "06224321000156",
+            "name": "DEPOSITO GERAL DE SUPRIMENTOS HOSPITALARES LTDA",
+            "n_licitacoes": 538,
+            "n_vencedora": 457,
+            "node_id": "DEPOSITO GERAL DE SUPRIMENTOS HOSPITALARES LTDA (CNPJ: 06224321000156)",
+            "prop_vencedoras": 0.8494,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "06265304000167",
+            "name": "FRANCISCO BARBOSA ROCHA - DISTRIBUIDORA NORDES",
+            "n_licitacoes": 369,
+            "n_vencedora": 189,
+            "node_id": "FRANCISCO BARBOSA ROCHA - DISTRIBUIDORA NORDES (CNPJ: 06265304000167)",
+            "prop_vencedoras": 0.5122,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "06267222000151",
+            "name": "JMA COMERCIO DE MATERIAIS ELETRICOS LTDA",
+            "n_licitacoes": 200,
+            "n_vencedora": 99,
+            "node_id": "JMA COMERCIO DE MATERIAIS ELETRICOS LTDA (CNPJ: 06267222000151)",
+            "prop_vencedoras": 0.495,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "06313433000183",
+            "name": "WILLIAMS RANGEL LOBO - ME",
+            "n_licitacoes": 422,
+            "n_vencedora": 55,
+            "node_id": "WILLIAMS RANGEL LOBO - ME (CNPJ: 06313433000183)",
+            "prop_vencedoras": 0.1303,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "06943110000173",
+            "name": "ARCO IRIS CONSTRUTORA LTDA",
+            "n_licitacoes": 236,
+            "n_vencedora": 88,
+            "node_id": "ARCO IRIS CONSTRUTORA LTDA (CNPJ: 06943110000173)",
+            "prop_vencedoras": 0.3729,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "06948769000112",
+            "name": "TECNOCENTER MATERIAIS MEDICOS HOSPITALARES LTDA",
+            "n_licitacoes": 477,
+            "n_vencedora": 437,
+            "node_id": "TECNOCENTER MATERIAIS MEDICOS HOSPITALARES LTDA (CNPJ: 06948769000112)",
+            "prop_vencedoras": 0.9161,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "06949023000123",
+            "name": "CONSULTEC-CONSULTORIA TECNICA & PLANEJAMENTO",
+            "n_licitacoes": 163,
+            "n_vencedora": 45,
+            "node_id": "CONSULTEC-CONSULTORIA TECNICA & PLANEJAMENTO (CNPJ: 06949023000123)",
+            "prop_vencedoras": 0.2761,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07055280000184",
+            "name": "R.F-WILTON C. MONTEIRO",
+            "n_licitacoes": 87,
+            "n_vencedora": 72,
+            "node_id": "R.F-WILTON C. MONTEIRO (CNPJ: 07055280000184)",
+            "prop_vencedoras": 0.8276,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "07149739000109",
+            "name": "JL CONSTRUCOES CIVIS LTDA",
+            "n_licitacoes": 114,
+            "n_vencedora": 67,
+            "node_id": "JL CONSTRUCOES CIVIS LTDA (CNPJ: 07149739000109)",
+            "prop_vencedoras": 0.5877,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07190281000131",
+            "name": "COMERCIAL DE ALIMENTOS SAVASSI LTDA",
+            "n_licitacoes": 228,
+            "n_vencedora": 100,
+            "node_id": "COMERCIAL DE ALIMENTOS SAVASSI LTDA (CNPJ: 07190281000131)",
+            "prop_vencedoras": 0.4386,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07203626000144",
+            "name": "LIMPE MAIS CONSTRUÇÕES LTDA",
+            "n_licitacoes": 181,
+            "n_vencedora": 57,
+            "node_id": "LIMPE MAIS CONSTRUÇÕES LTDA (CNPJ: 07203626000144)",
+            "prop_vencedoras": 0.3149,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07205380000140",
+            "name": "COMERCIAL DE ALIMENTOS FIGUEIREDO LTDA",
+            "n_licitacoes": 258,
+            "n_vencedora": 131,
+            "node_id": "COMERCIAL DE ALIMENTOS FIGUEIREDO LTDA (CNPJ: 07205380000140)",
+            "prop_vencedoras": 0.5078,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07206138000190",
+            "name": "MCR PNEUS LTDA",
+            "n_licitacoes": 85,
+            "n_vencedora": 48,
+            "node_id": "MCR PNEUS LTDA (CNPJ: 07206138000190)",
+            "prop_vencedoras": 0.5647,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07212872000162",
+            "name": "SAO JOSE EMPREENDIMENTOS DE CONSTRUCAO LTDA",
+            "n_licitacoes": 98,
+            "n_vencedora": 27,
+            "node_id": "SAO JOSE EMPREENDIMENTOS DE CONSTRUCAO LTDA (CNPJ: 07212872000162)",
+            "prop_vencedoras": 0.2755,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07227808000155",
+            "name": "BJ COMERCIO DE ALIMENTOS LTDA",
+            "n_licitacoes": 404,
+            "n_vencedora": 344,
+            "node_id": "BJ COMERCIO DE ALIMENTOS LTDA (CNPJ: 07227808000155)",
+            "prop_vencedoras": 0.8515,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "07273037000132",
+            "name": "CONSTRUTORA MOURIAH LTDA",
+            "n_licitacoes": 192,
+            "n_vencedora": 65,
+            "node_id": "CONSTRUTORA MOURIAH LTDA (CNPJ: 07273037000132)",
+            "prop_vencedoras": 0.3385,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07350128000124",
+            "name": "FC PROJETOS E CONSTRUÇÕES LTDA",
+            "n_licitacoes": 199,
+            "n_vencedora": 52,
+            "node_id": "FC PROJETOS E CONSTRUÇÕES LTDA (CNPJ: 07350128000124)",
+            "prop_vencedoras": 0.2613,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07354656000151",
+            "name": "APL-ATACADAO DE PAPELARIA LTDA",
+            "n_licitacoes": 90,
+            "n_vencedora": 88,
+            "node_id": "APL-ATACADAO DE PAPELARIA LTDA (CNPJ: 07354656000151)",
+            "prop_vencedoras": 0.9778,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "07358710000137",
+            "name": "VESTIR COMÉRCIO DE CONFECÇÕES LTDA",
+            "n_licitacoes": 281,
+            "n_vencedora": 164,
+            "node_id": "VESTIR COMÉRCIO DE CONFECÇÕES LTDA (CNPJ: 07358710000137)",
+            "prop_vencedoras": 0.5836,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07360997000130",
+            "name": "BELARMINO SERVIÇOS E CONTRUÇÕES LTDA-ME",
+            "n_licitacoes": 226,
+            "n_vencedora": 29,
+            "node_id": "BELARMINO SERVIÇOS E CONTRUÇÕES LTDA-ME (CNPJ: 07360997000130)",
+            "prop_vencedoras": 0.1283,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "07365058000188",
+            "name": "MEDCENTER COM. DE MAT. MEDICOS LTDA",
+            "n_licitacoes": 223,
+            "n_vencedora": 105,
+            "node_id": "MEDCENTER COM. DE MAT. MEDICOS LTDA (CNPJ: 07365058000188)",
+            "prop_vencedoras": 0.4709,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07408508000172",
+            "name": "XOXOTEANDO PRODUÇOES ARTITICAS LTDA",
+            "n_licitacoes": 217,
+            "n_vencedora": 145,
+            "node_id": "XOXOTEANDO PRODUÇOES ARTITICAS LTDA (CNPJ: 07408508000172)",
+            "prop_vencedoras": 0.6682,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07469269000160",
+            "name": "VIASOFT SOLUCOES TECNOLOGICAS LTDA",
+            "n_licitacoes": 73,
+            "n_vencedora": 2,
+            "node_id": "VIASOFT SOLUCOES TECNOLOGICAS LTDA (CNPJ: 07469269000160)",
+            "prop_vencedoras": 0.0274,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "07479030000171",
+            "name": "EDUCA ASSESSORIA EDUCACIONAL LTDA",
+            "n_licitacoes": 215,
+            "n_vencedora": 84,
+            "node_id": "EDUCA ASSESSORIA EDUCACIONAL LTDA (CNPJ: 07479030000171)",
+            "prop_vencedoras": 0.3907,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07512307000110",
+            "name": "CLEONICE RUFINO BARBOSA",
+            "n_licitacoes": 162,
+            "n_vencedora": 71,
+            "node_id": "CLEONICE RUFINO BARBOSA (CNPJ: 07512307000110)",
+            "prop_vencedoras": 0.4383,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07526979000185",
+            "name": "RAIMUNDO ADELMAR FONSECA PIRES",
+            "n_licitacoes": 729,
+            "n_vencedora": 477,
+            "node_id": "RAIMUNDO ADELMAR FONSECA PIRES (CNPJ: 07526979000185)",
+            "prop_vencedoras": 0.6543,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07553129000176",
+            "name": "PUBLIC SOFTAWARE INFORMÁTICA LTDA",
+            "n_licitacoes": 417,
+            "n_vencedora": 410,
+            "node_id": "PUBLIC SOFTAWARE INFORMÁTICA LTDA (CNPJ: 07553129000176)",
+            "prop_vencedoras": 0.9832,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "07647023000131",
+            "name": "MIRAGEM CONSTRUÇÕES LTDA",
+            "n_licitacoes": 108,
+            "n_vencedora": 35,
+            "node_id": "MIRAGEM CONSTRUÇÕES LTDA (CNPJ: 07647023000131)",
+            "prop_vencedoras": 0.3241,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07724827000197",
+            "name": "ROMA COMERCIAL DE CEREAIS LTDA",
+            "n_licitacoes": 147,
+            "n_vencedora": 97,
+            "node_id": "ROMA COMERCIAL DE CEREAIS LTDA (CNPJ: 07724827000197)",
+            "prop_vencedoras": 0.6599,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07836758000103",
+            "name": "EVILAZIO PEREIRA DOS SANTOS",
+            "n_licitacoes": 151,
+            "n_vencedora": 61,
+            "node_id": "EVILAZIO PEREIRA DOS SANTOS (CNPJ: 07836758000103)",
+            "prop_vencedoras": 0.404,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07880044000100",
+            "name": "A R PAPELARIA LTDA",
+            "n_licitacoes": 131,
+            "n_vencedora": 29,
+            "node_id": "A R PAPELARIA LTDA (CNPJ: 07880044000100)",
+            "prop_vencedoras": 0.2214,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "07899015000182",
+            "name": "ALEXANDRE SILVA AURELIANO ME - ASA PRODUÇÕES E EVENTOS",
+            "n_licitacoes": 191,
+            "n_vencedora": 77,
+            "node_id": "ALEXANDRE SILVA AURELIANO ME - ASA PRODUÇÕES E EVENTOS (CNPJ: 07899015000182)",
+            "prop_vencedoras": 0.4031,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07913242000115",
+            "name": "D. R. Projetos e Construções Ltda.",
+            "n_licitacoes": 257,
+            "n_vencedora": 93,
+            "node_id": "D. R. Projetos e Construções Ltda. (CNPJ: 07913242000115)",
+            "prop_vencedoras": 0.3619,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "07936090000176",
+            "name": "BIOMED-DIST.HOSP.E LABORATORIAL LTDA",
+            "n_licitacoes": 243,
+            "n_vencedora": 221,
+            "node_id": "BIOMED-DIST.HOSP.E LABORATORIAL LTDA (CNPJ: 07936090000176)",
+            "prop_vencedoras": 0.9095,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "08160290000142",
+            "name": "FARMAGUEDES COMERCIO DE PRODUTOS FARMACEUTICO LTDA",
+            "n_licitacoes": 1127,
+            "n_vencedora": 798,
+            "node_id": "FARMAGUEDES COMERCIO DE PRODUTOS FARMACEUTICO LTDA (CNPJ: 08160290000142)",
+            "prop_vencedoras": 0.7081,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "08270171000142",
+            "name": "CONSTRUTORA BANDEIRANTE LTDA",
+            "n_licitacoes": 89,
+            "n_vencedora": 54,
+            "node_id": "CONSTRUTORA BANDEIRANTE LTDA (CNPJ: 08270171000142)",
+            "prop_vencedoras": 0.6067,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "08287535000105",
+            "name": "PAPELARIA SANTO ANTONIO",
+            "n_licitacoes": 229,
+            "n_vencedora": 168,
+            "node_id": "PAPELARIA SANTO ANTONIO (CNPJ: 08287535000105)",
+            "prop_vencedoras": 0.7336,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "08307662000110",
+            "name": "Renovação de Pneus Borborema Ltda",
+            "n_licitacoes": 125,
+            "n_vencedora": 34,
+            "node_id": "Renovação de Pneus Borborema Ltda (CNPJ: 08307662000110)",
+            "prop_vencedoras": 0.272,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "08307662000382",
+            "name": "RENOVACAO DE PNEUS BORBOREMA LTDA.",
+            "n_licitacoes": 220,
+            "n_vencedora": 93,
+            "node_id": "RENOVACAO DE PNEUS BORBOREMA LTDA. (CNPJ: 08307662000382)",
+            "prop_vencedoras": 0.4227,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "08310625000323",
+            "name": "FRANCISCO XAVIER DO REGO",
+            "n_licitacoes": 154,
+            "n_vencedora": 107,
+            "node_id": "FRANCISCO XAVIER DO REGO (CNPJ: 08310625000323)",
+            "prop_vencedoras": 0.6948,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "08312545000145",
+            "name": "JI PEREIRA EVENTOS LTDA",
+            "n_licitacoes": 242,
+            "n_vencedora": 137,
+            "node_id": "JI PEREIRA EVENTOS LTDA (CNPJ: 08312545000145)",
+            "prop_vencedoras": 0.5661,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "08321484000182",
+            "name": "SUPER GAME - COMERCIO E SERVICOS",
+            "n_licitacoes": 267,
+            "n_vencedora": 241,
+            "node_id": "SUPER GAME - COMERCIO E SERVICOS (CNPJ: 08321484000182)",
+            "prop_vencedoras": 0.9026,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "08345019000181",
+            "name": "MM MATERIAIS MEDICOS LTDA",
+            "n_licitacoes": 274,
+            "n_vencedora": 69,
+            "node_id": "MM MATERIAIS MEDICOS LTDA (CNPJ: 08345019000181)",
+            "prop_vencedoras": 0.2518,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "08370039000102",
+            "name": "MEGA MASTER COMERCIAL DE ALIMENTOS LTDA",
+            "n_licitacoes": 526,
+            "n_vencedora": 309,
+            "node_id": "MEGA MASTER COMERCIAL DE ALIMENTOS LTDA (CNPJ: 08370039000102)",
+            "prop_vencedoras": 0.5875,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "08388931000110",
+            "name": "TRES W INFORMATICA LTDA",
+            "n_licitacoes": 96,
+            "n_vencedora": 6,
+            "node_id": "TRES W INFORMATICA LTDA (CNPJ: 08388931000110)",
+            "prop_vencedoras": 0.0625,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "08404752000120",
+            "name": "NIVANE M L CALADO",
+            "n_licitacoes": 157,
+            "n_vencedora": 142,
+            "node_id": "NIVANE M L CALADO (CNPJ: 08404752000120)",
+            "prop_vencedoras": 0.9045,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "08527137000100",
+            "name": "ELETRONOR ENGENHARIA E COMERCIO LTDA",
+            "n_licitacoes": 358,
+            "n_vencedora": 208,
+            "node_id": "ELETRONOR ENGENHARIA E COMERCIO LTDA (CNPJ: 08527137000100)",
+            "prop_vencedoras": 0.581,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "08540403000135",
+            "name": "GRAFICA JB LTDA",
+            "n_licitacoes": 143,
+            "n_vencedora": 31,
+            "node_id": "GRAFICA JB LTDA (CNPJ: 08540403000135)",
+            "prop_vencedoras": 0.2168,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "08602732000163",
+            "name": "GRAFICA MUNDIAL LTDA",
+            "n_licitacoes": 108,
+            "n_vencedora": 33,
+            "node_id": "GRAFICA MUNDIAL LTDA (CNPJ: 08602732000163)",
+            "prop_vencedoras": 0.3056,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "08668638000107",
+            "name": "Campina Grande Pneus Ltda",
+            "n_licitacoes": 100,
+            "n_vencedora": 39,
+            "node_id": "Campina Grande Pneus Ltda (CNPJ: 08668638000107)",
+            "prop_vencedoras": 0.39,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "08674752000140",
+            "name": "CIRURGICA MONTEBELLO LTDA",
+            "n_licitacoes": 230,
+            "n_vencedora": 209,
+            "node_id": "CIRURGICA MONTEBELLO LTDA (CNPJ: 08674752000140)",
+            "prop_vencedoras": 0.9087,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "08778201000126",
+            "name": "DROGAFONTE LTDA",
+            "n_licitacoes": 854,
+            "n_vencedora": 824,
+            "node_id": "DROGAFONTE LTDA (CNPJ: 08778201000126)",
+            "prop_vencedoras": 0.9649,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "08819724000173",
+            "name": "LAGEAN COMÉRCIO & REPRESENTAÇÃO LTDA",
+            "n_licitacoes": 376,
+            "n_vencedora": 323,
+            "node_id": "LAGEAN COMÉRCIO & REPRESENTAÇÃO LTDA (CNPJ: 08819724000173)",
+            "prop_vencedoras": 0.859,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "08877441000188",
+            "name": "LIVRARIA DOM BOSCO.",
+            "n_licitacoes": 533,
+            "n_vencedora": 354,
+            "node_id": "LIVRARIA DOM BOSCO. (CNPJ: 08877441000188)",
+            "prop_vencedoras": 0.6642,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "08888299000174",
+            "name": "OSMENON ALVES TEIXEIRA-ME",
+            "n_licitacoes": 172,
+            "n_vencedora": 107,
+            "node_id": "OSMENON ALVES TEIXEIRA-ME (CNPJ: 08888299000174)",
+            "prop_vencedoras": 0.6221,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "08948064000120",
+            "name": "ELITFE CONSTRUÇÕES COMERCIO E SERVIÇO LTDA",
+            "n_licitacoes": 174,
+            "n_vencedora": 40,
+            "node_id": "ELITFE CONSTRUÇÕES COMERCIO E SERVIÇO LTDA (CNPJ: 08948064000120)",
+            "prop_vencedoras": 0.2299,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "09007162000126",
+            "name": "MAUBES LOBATO COMERCIO E REPRESENTAÇÕES LTDA",
+            "n_licitacoes": 198,
+            "n_vencedora": 173,
+            "node_id": "MAUBES LOBATO COMERCIO E REPRESENTAÇÕES LTDA (CNPJ: 09007162000126)",
+            "prop_vencedoras": 0.8737,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "09039574000148",
+            "name": "MF COMERCIO DE PRODUTOS MEDICOS LTDA - EPP",
+            "n_licitacoes": 76,
+            "n_vencedora": 50,
+            "node_id": "MF COMERCIO DE PRODUTOS MEDICOS LTDA - EPP (CNPJ: 09039574000148)",
+            "prop_vencedoras": 0.6579,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "09083015000135",
+            "name": "GRAFICA SANTO ANTONIO",
+            "n_licitacoes": 251,
+            "n_vencedora": 203,
+            "node_id": "GRAFICA SANTO ANTONIO (CNPJ: 09083015000135)",
+            "prop_vencedoras": 0.8088,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "09094962000121",
+            "name": "DENTAL REAL - C. VELOSO.",
+            "n_licitacoes": 395,
+            "n_vencedora": 223,
+            "node_id": "DENTAL REAL - C. VELOSO. (CNPJ: 09094962000121)",
+            "prop_vencedoras": 0.5646,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "09096698000165",
+            "name": "BRNET INFORMATICA LTDA",
+            "n_licitacoes": 67,
+            "n_vencedora": 16,
+            "node_id": "BRNET INFORMATICA LTDA (CNPJ: 09096698000165)",
+            "prop_vencedoras": 0.2388,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "09097333000155",
+            "name": "A FEIRA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
+            "n_licitacoes": 72,
+            "n_vencedora": 63,
+            "node_id": "A FEIRA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA (CNPJ: 09097333000155)",
+            "prop_vencedoras": 0.875,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "09164369000104",
+            "name": "ALMAR INFORMÁTICA",
+            "n_licitacoes": 566,
+            "n_vencedora": 422,
+            "node_id": "ALMAR INFORMÁTICA (CNPJ: 09164369000104)",
+            "prop_vencedoras": 0.7456,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "09183224000150",
+            "name": "O ESCOLAR COMERCIO E SERVICOS LTDA",
+            "n_licitacoes": 93,
+            "n_vencedora": 81,
+            "node_id": "O ESCOLAR COMERCIO E SERVICOS LTDA (CNPJ: 09183224000150)",
+            "prop_vencedoras": 0.871,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "09193047000193",
+            "name": "DISTRIBUIDORA SALUTTE LTDA-ME",
+            "n_licitacoes": 267,
+            "n_vencedora": 241,
+            "node_id": "DISTRIBUIDORA SALUTTE LTDA-ME (CNPJ: 09193047000193)",
+            "prop_vencedoras": 0.9026,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "09196974000167",
+            "name": "E-TICONS EMP. DE TECNOL. DA INFORMAÇÃO & CONSULTOR",
+            "n_licitacoes": 480,
+            "n_vencedora": 294,
+            "node_id": "E-TICONS EMP. DE TECNOL. DA INFORMAÇÃO & CONSULTOR (CNPJ: 09196974000167)",
+            "prop_vencedoras": 0.6125,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "09215807000116",
+            "name": "PNEUMAX LTDA",
+            "n_licitacoes": 723,
+            "n_vencedora": 358,
+            "node_id": "PNEUMAX LTDA (CNPJ: 09215807000116)",
+            "prop_vencedoras": 0.4952,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "09233339000102",
+            "name": "GRAFICA E EDITORA BENTO FREIRE LTDA",
+            "n_licitacoes": 136,
+            "n_vencedora": 100,
+            "node_id": "GRAFICA E EDITORA BENTO FREIRE LTDA (CNPJ: 09233339000102)",
+            "prop_vencedoras": 0.7353,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "09234429000118",
+            "name": "FRANCISCO VIEIRA FILHO - SUPERMERCADO",
+            "n_licitacoes": 161,
+            "n_vencedora": 149,
+            "node_id": "FRANCISCO VIEIRA FILHO - SUPERMERCADO (CNPJ: 09234429000118)",
+            "prop_vencedoras": 0.9255,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "09238106000100",
+            "name": "J CARLOS MOVEIS LTDA",
+            "n_licitacoes": 104,
+            "n_vencedora": 84,
+            "node_id": "J CARLOS MOVEIS LTDA (CNPJ: 09238106000100)",
+            "prop_vencedoras": 0.8077,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "09260831000177",
+            "name": "Atacamed Comércio de Produtos Farmaceuticos e Hospitalares LTDA",
+            "n_licitacoes": 212,
+            "n_vencedora": 138,
+            "node_id": "Atacamed Comércio de Produtos Farmaceuticos e Hospitalares LTDA (CNPJ: 09260831000177)",
+            "prop_vencedoras": 0.6509,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "09286691000106",
+            "name": "C. PINHEIRO E CIA LTDA",
+            "n_licitacoes": 234,
+            "n_vencedora": 142,
+            "node_id": "C. PINHEIRO E CIA LTDA (CNPJ: 09286691000106)",
+            "prop_vencedoras": 0.6068,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "09287657000156",
+            "name": "COMERCIAL DE ESTIVAS SOARES LTDA",
+            "n_licitacoes": 207,
+            "n_vencedora": 143,
+            "node_id": "COMERCIAL DE ESTIVAS SOARES LTDA (CNPJ: 09287657000156)",
+            "prop_vencedoras": 0.6908,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "09323379000145",
+            "name": "FARIAS COM. DE COMBUSTÍVEIS LTDA (POSTO CRISTINA)",
+            "n_licitacoes": 84,
+            "n_vencedora": 26,
+            "node_id": "FARIAS COM. DE COMBUSTÍVEIS LTDA (POSTO CRISTINA) (CNPJ: 09323379000145)",
+            "prop_vencedoras": 0.3095,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "09353327000111",
+            "name": "ANTONIO BRASILEIRO DE ARAUJO",
+            "n_licitacoes": 270,
+            "n_vencedora": 145,
+            "node_id": "ANTONIO BRASILEIRO DE ARAUJO (CNPJ: 09353327000111)",
+            "prop_vencedoras": 0.537,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "09358430000154",
+            "name": "AUTO CENTER COMERCIO DE PECAS E SERVICOS LTDA",
+            "n_licitacoes": 290,
+            "n_vencedora": 239,
+            "node_id": "AUTO CENTER COMERCIO DE PECAS E SERVICOS LTDA (CNPJ: 09358430000154)",
+            "prop_vencedoras": 0.8241,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "09382946000134",
+            "name": "COMERCIAL DE COMBUSTÍVEL NORDESTE LTDA.",
+            "n_licitacoes": 267,
+            "n_vencedora": 189,
+            "node_id": "COMERCIAL DE COMBUSTÍVEL NORDESTE LTDA. (CNPJ: 09382946000134)",
+            "prop_vencedoras": 0.7079,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "09478023000180",
+            "name": "SANTOS & LUCENA LTDA",
+            "n_licitacoes": 361,
+            "n_vencedora": 346,
+            "node_id": "SANTOS & LUCENA LTDA (CNPJ: 09478023000180)",
+            "prop_vencedoras": 0.9584,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "09685217000157",
+            "name": "MARIA DE LOURDES MARINHO DE OLIVEIRA - ME",
+            "n_licitacoes": 69,
+            "n_vencedora": 58,
+            "node_id": "MARIA DE LOURDES MARINHO DE OLIVEIRA - ME (CNPJ: 09685217000157)",
+            "prop_vencedoras": 0.8406,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "09912207000107",
+            "name": "DANTAS & LACERDA- Comércio de Alimentos LTDA",
+            "n_licitacoes": 272,
+            "n_vencedora": 91,
+            "node_id": "DANTAS & LACERDA- Comércio de Alimentos LTDA (CNPJ: 09912207000107)",
+            "prop_vencedoras": 0.3346,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "10365996000192",
+            "name": "MD Distribuidora Ltda",
+            "n_licitacoes": 268,
+            "n_vencedora": 143,
+            "node_id": "MD Distribuidora Ltda (CNPJ: 10365996000192)",
+            "prop_vencedoras": 0.5336,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "10408838000172",
+            "name": "COMERCIAL CAMPINANSE DE CEREAIS LTDA",
+            "n_licitacoes": 224,
+            "n_vencedora": 74,
+            "node_id": "COMERCIAL CAMPINANSE DE CEREAIS LTDA (CNPJ: 10408838000172)",
+            "prop_vencedoras": 0.3304,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "10409223000160",
+            "name": "TOTAL CONSTRUÇÕES COMERCIO E SERVIÇOS LTDA",
+            "n_licitacoes": 123,
+            "n_vencedora": 67,
+            "node_id": "TOTAL CONSTRUÇÕES COMERCIO E SERVIÇOS LTDA (CNPJ: 10409223000160)",
+            "prop_vencedoras": 0.5447,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "10414278000169",
+            "name": "FOCO CONSULTORIA LTDA",
+            "n_licitacoes": 285,
+            "n_vencedora": 206,
+            "node_id": "FOCO CONSULTORIA LTDA (CNPJ: 10414278000169)",
+            "prop_vencedoras": 0.7228,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "10483375000103",
+            "name": "MEDICALNET DIST. DE MEDICAMENTOS E MATERIAIL HOSPITALAR LTDA",
+            "n_licitacoes": 124,
+            "n_vencedora": 104,
+            "node_id": "MEDICALNET DIST. DE MEDICAMENTOS E MATERIAIL HOSPITALAR LTDA (CNPJ: 10483375000103)",
+            "prop_vencedoras": 0.8387,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "10497380000175",
+            "name": "ALEX BRUNO PEDRO DA SILVA",
+            "n_licitacoes": 89,
+            "n_vencedora": 31,
+            "node_id": "ALEX BRUNO PEDRO DA SILVA (CNPJ: 10497380000175)",
+            "prop_vencedoras": 0.3483,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "10529810000193",
+            "name": "CIRURGICA SANTA BARBARA LTDA",
+            "n_licitacoes": 175,
+            "n_vencedora": 87,
+            "node_id": "CIRURGICA SANTA BARBARA LTDA (CNPJ: 10529810000193)",
+            "prop_vencedoras": 0.4971,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "10554404000180",
+            "name": "ASSP- ASSESSORIA E PROJETOS",
+            "n_licitacoes": 152,
+            "n_vencedora": 105,
+            "node_id": "ASSP- ASSESSORIA E PROJETOS (CNPJ: 10554404000180)",
+            "prop_vencedoras": 0.6908,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "10554743000167",
+            "name": "PONTUAL DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+            "n_licitacoes": 346,
+            "n_vencedora": 312,
+            "node_id": "PONTUAL DISTRIBUIDORA DE MEDICAMENTOS LTDA (CNPJ: 10554743000167)",
+            "prop_vencedoras": 0.9017,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "10592570000171",
+            "name": "JUED COM. E ASSIST. DE EQUIPAMENTOS ODONTOLOGICOS LTDA",
+            "n_licitacoes": 185,
+            "n_vencedora": 170,
+            "node_id": "JUED COM. E ASSIST. DE EQUIPAMENTOS ODONTOLOGICOS LTDA (CNPJ: 10592570000171)",
+            "prop_vencedoras": 0.9189,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "10719048000108",
+            "name": "RITA DE ANDRADE VIEIRA - ME",
+            "n_licitacoes": 161,
+            "n_vencedora": 158,
+            "node_id": "RITA DE ANDRADE VIEIRA - ME (CNPJ: 10719048000108)",
+            "prop_vencedoras": 0.9814,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "10742195000107",
+            "name": "IMPRESSOS ADILSON",
+            "n_licitacoes": 109,
+            "n_vencedora": 25,
+            "node_id": "IMPRESSOS ADILSON (CNPJ: 10742195000107)",
+            "prop_vencedoras": 0.2294,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "10761617000183",
+            "name": "EKYPEL EQUIPAMENTOS PARA ESCRITÓRIO LTDA",
+            "n_licitacoes": 119,
+            "n_vencedora": 70,
+            "node_id": "EKYPEL EQUIPAMENTOS PARA ESCRITÓRIO LTDA (CNPJ: 10761617000183)",
+            "prop_vencedoras": 0.5882,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "10764389000103",
+            "name": "CONSTAT - CONSTRUÇÕES E ASSITÊNCIA TÉCNICA LTDA.",
+            "n_licitacoes": 95,
+            "n_vencedora": 41,
+            "node_id": "CONSTAT - CONSTRUÇÕES E ASSITÊNCIA TÉCNICA LTDA. (CNPJ: 10764389000103)",
+            "prop_vencedoras": 0.4316,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "10779833000156",
+            "name": "MEDICAL MERCANTIL DE APARELHAGEM MEDICA",
+            "n_licitacoes": 913,
+            "n_vencedora": 453,
+            "node_id": "MEDICAL MERCANTIL DE APARELHAGEM MEDICA (CNPJ: 10779833000156)",
+            "prop_vencedoras": 0.4962,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "10806118000165",
+            "name": "MEDFARMACY HOSPITALAR LTDA",
+            "n_licitacoes": 306,
+            "n_vencedora": 268,
+            "node_id": "MEDFARMACY HOSPITALAR LTDA (CNPJ: 10806118000165)",
+            "prop_vencedoras": 0.8758,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "10831701000126",
+            "name": "LARMED DISTRIBUIDORA DE MEDICAMENTOS E MATERIAL MEDICO HOSPITALAR LTDA",
+            "n_licitacoes": 1262,
+            "n_vencedora": 1100,
+            "node_id": "LARMED DISTRIBUIDORA DE MEDICAMENTOS E MATERIAL MEDICO HOSPITALAR LTDA (CNPJ: 10831701000126)",
+            "prop_vencedoras": 0.8716,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "10845972000130",
+            "name": "HERMANO REGIS E CIA LTDA",
+            "n_licitacoes": 108,
+            "n_vencedora": 54,
+            "node_id": "HERMANO REGIS E CIA LTDA (CNPJ: 10845972000130)",
+            "prop_vencedoras": 0.5,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "10853042000129",
+            "name": "Dobu Auto Perças LTDA",
+            "n_licitacoes": 301,
+            "n_vencedora": 215,
+            "node_id": "Dobu Auto Perças LTDA (CNPJ: 10853042000129)",
+            "prop_vencedoras": 0.7143,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "11158724000184",
+            "name": "F e B COMERCIO ATACADISTA DE ALIMENTOS LTDA",
+            "n_licitacoes": 73,
+            "n_vencedora": 8,
+            "node_id": "F e B COMERCIO ATACADISTA DE ALIMENTOS LTDA (CNPJ: 11158724000184)",
+            "prop_vencedoras": 0.1096,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "11336916000133",
+            "name": "MEGAPEL COMERCIO E SERVICOS LTDA",
+            "n_licitacoes": 128,
+            "n_vencedora": 83,
+            "node_id": "MEGAPEL COMERCIO E SERVICOS LTDA (CNPJ: 11336916000133)",
+            "prop_vencedoras": 0.6484,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "11427407000116",
+            "name": "GQS-ELETROS E EQUIPAMENTOS LTDA",
+            "n_licitacoes": 225,
+            "n_vencedora": 202,
+            "node_id": "GQS-ELETROS E EQUIPAMENTOS LTDA (CNPJ: 11427407000116)",
+            "prop_vencedoras": 0.8978,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "11807734000101",
+            "name": "MARCO ANTONIO QUERINO DA SILVA - EPP",
+            "n_licitacoes": 271,
+            "n_vencedora": 67,
+            "node_id": "MARCO ANTONIO QUERINO DA SILVA - EPP (CNPJ: 11807734000101)",
+            "prop_vencedoras": 0.2472,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "11895653000100",
+            "name": "LEIA COM. DE LIVROS E MAGAZINE LTDA",
+            "n_licitacoes": 482,
+            "n_vencedora": 329,
+            "node_id": "LEIA COM. DE LIVROS E MAGAZINE LTDA (CNPJ: 11895653000100)",
+            "prop_vencedoras": 0.6826,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "11900537000124",
+            "name": "TIPOGRAFIA MODERNA LTDA",
+            "n_licitacoes": 74,
+            "n_vencedora": 68,
+            "node_id": "TIPOGRAFIA MODERNA LTDA (CNPJ: 11900537000124)",
+            "prop_vencedoras": 0.9189,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "11991494000130",
+            "name": "SUPERMERCADOS TROPEIROS LTDA.",
+            "n_licitacoes": 333,
+            "n_vencedora": 211,
+            "node_id": "SUPERMERCADOS TROPEIROS LTDA. (CNPJ: 11991494000130)",
+            "prop_vencedoras": 0.6336,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "12305387000173",
+            "name": "RDF - DISTRIBUIDORA DE PRODUTOS PARA SAÚDE LTDA",
+            "n_licitacoes": 182,
+            "n_vencedora": 168,
+            "node_id": "RDF - DISTRIBUIDORA DE PRODUTOS PARA SAÚDE LTDA (CNPJ: 12305387000173)",
+            "prop_vencedoras": 0.9231,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "12710916000114",
+            "name": "EDILANE DA COSTA CARVALHO",
+            "n_licitacoes": 183,
+            "n_vencedora": 166,
+            "node_id": "EDILANE DA COSTA CARVALHO (CNPJ: 12710916000114)",
+            "prop_vencedoras": 0.9071,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "12711139000122",
+            "name": "MAX COMERCIO DE MATERIAIS PARA ESCRITORIOS LTDA",
+            "n_licitacoes": 116,
+            "n_vencedora": 88,
+            "node_id": "MAX COMERCIO DE MATERIAIS PARA ESCRITORIOS LTDA (CNPJ: 12711139000122)",
+            "prop_vencedoras": 0.7586,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "12734018000104",
+            "name": "CIRURGICA CAMPINENSE",
+            "n_licitacoes": 602,
+            "n_vencedora": 385,
+            "node_id": "CIRURGICA CAMPINENSE (CNPJ: 12734018000104)",
+            "prop_vencedoras": 0.6395,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "12882932000194",
+            "name": "Exomed Representação de Medicamentos Ltda",
+            "n_licitacoes": 141,
+            "n_vencedora": 55,
+            "node_id": "Exomed Representação de Medicamentos Ltda (CNPJ: 12882932000194)",
+            "prop_vencedoras": 0.3901,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "12908752000134",
+            "name": "PAGINA 27 - FREITAS E COSTA LTDA",
+            "n_licitacoes": 180,
+            "n_vencedora": 147,
+            "node_id": "PAGINA 27 - FREITAS E COSTA LTDA (CNPJ: 12908752000134)",
+            "prop_vencedoras": 0.8167,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "12912135000102",
+            "name": "ANTONIO COSTA DOS SANTOS",
+            "n_licitacoes": 259,
+            "n_vencedora": 109,
+            "node_id": "ANTONIO COSTA DOS SANTOS (CNPJ: 12912135000102)",
+            "prop_vencedoras": 0.4208,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "12929519000138",
+            "name": "SERV. E COM. DE PRODUTOS MEDICOS LTDA",
+            "n_licitacoes": 138,
+            "n_vencedora": 79,
+            "node_id": "SERV. E COM. DE PRODUTOS MEDICOS LTDA (CNPJ: 12929519000138)",
+            "prop_vencedoras": 0.5725,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "15218561000139",
+            "name": "NNMED DIST IMP E EXP DE MED LTDA.",
+            "n_licitacoes": 285,
+            "n_vencedora": 281,
+            "node_id": "NNMED DIST IMP E EXP DE MED LTDA. (CNPJ: 15218561000139)",
+            "prop_vencedoras": 0.986,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "15407975000106",
+            "name": "LORENA & ADRIA CONSTRUÇÕES COMÉRCIO E LOCAÇÕES LTDA - ME",
+            "n_licitacoes": 167,
+            "n_vencedora": 51,
+            "node_id": "LORENA & ADRIA CONSTRUÇÕES COMÉRCIO E LOCAÇÕES LTDA - ME (CNPJ: 15407975000106)",
+            "prop_vencedoras": 0.3054,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "16826043000160",
+            "name": "DENTALMED COMERCIO E REP LTDA",
+            "n_licitacoes": 252,
+            "n_vencedora": 232,
+            "node_id": "DENTALMED COMERCIO E REP LTDA (CNPJ: 16826043000160)",
+            "prop_vencedoras": 0.9206,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "18967438000109",
+            "name": "HUMBERTO LIMA DA SILVA - ME",
+            "n_licitacoes": 94,
+            "n_vencedora": 78,
+            "node_id": "HUMBERTO LIMA DA SILVA - ME (CNPJ: 18967438000109)",
+            "prop_vencedoras": 0.8298,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "24099731000102",
+            "name": "PEDRO MANGUEIRA DE AQUINO",
+            "n_licitacoes": 199,
+            "n_vencedora": 167,
+            "node_id": "PEDRO MANGUEIRA DE AQUINO (CNPJ: 24099731000102)",
+            "prop_vencedoras": 0.8392,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "24105306000170",
+            "name": "GERALDO DAVID DA SILVA",
+            "n_licitacoes": 298,
+            "n_vencedora": 154,
+            "node_id": "GERALDO DAVID DA SILVA (CNPJ: 24105306000170)",
+            "prop_vencedoras": 0.5168,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "24116337000127",
+            "name": "PAPELARIA E LIVRARIA PEDRO II",
+            "n_licitacoes": 330,
+            "n_vencedora": 237,
+            "node_id": "PAPELARIA E LIVRARIA PEDRO II (CNPJ: 24116337000127)",
+            "prop_vencedoras": 0.7182,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "24215436000166",
+            "name": "C MENDES FEITOSA",
+            "n_licitacoes": 365,
+            "n_vencedora": 222,
+            "node_id": "C MENDES FEITOSA (CNPJ: 24215436000166)",
+            "prop_vencedoras": 0.6082,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "24280828000109",
+            "name": "SAUDENTAL COMERCIO E REPRESENTAÇÕES LTDA",
+            "n_licitacoes": 838,
+            "n_vencedora": 728,
+            "node_id": "SAUDENTAL COMERCIO E REPRESENTAÇÕES LTDA (CNPJ: 24280828000109)",
+            "prop_vencedoras": 0.8687,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "24280828000290",
+            "name": "SAUDE DENTAL COM. E REPRESENTACAO LTDA",
+            "n_licitacoes": 380,
+            "n_vencedora": 297,
+            "node_id": "SAUDE DENTAL COM. E REPRESENTACAO LTDA (CNPJ: 24280828000290)",
+            "prop_vencedoras": 0.7816,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "24292765000100",
+            "name": "FRANCISCO DE SOUSA PIRES ARMAZEM",
+            "n_licitacoes": 201,
+            "n_vencedora": 139,
+            "node_id": "FRANCISCO DE SOUSA PIRES ARMAZEM (CNPJ: 24292765000100)",
+            "prop_vencedoras": 0.6915,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "24502049000100",
+            "name": "MARIA DO SOCORRO ADELINO MOURA",
+            "n_licitacoes": 173,
+            "n_vencedora": 138,
+            "node_id": "MARIA DO SOCORRO ADELINO MOURA (CNPJ: 24502049000100)",
+            "prop_vencedoras": 0.7977,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "24502742000183",
+            "name": "FARMEC - PRODUTOS FARMACÊUTICOS E CIRÚRGICOS LTDA.",
+            "n_licitacoes": 289,
+            "n_vencedora": 184,
+            "node_id": "FARMEC - PRODUTOS FARMACÊUTICOS E CIRÚRGICOS LTDA. (CNPJ: 24502742000183)",
+            "prop_vencedoras": 0.6367,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "24506743000104",
+            "name": "POLPA DE FRUTAS IDEAL COMERCIO LTDA",
+            "n_licitacoes": 146,
+            "n_vencedora": 123,
+            "node_id": "POLPA DE FRUTAS IDEAL COMERCIO LTDA (CNPJ: 24506743000104)",
+            "prop_vencedoras": 0.8425,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "24511222000137",
+            "name": "JOSE FLORENTINO DE MELO",
+            "n_licitacoes": 316,
+            "n_vencedora": 130,
+            "node_id": "JOSE FLORENTINO DE MELO (CNPJ: 24511222000137)",
+            "prop_vencedoras": 0.4114,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "32734295000116",
+            "name": "CRISFARMA COMERCIO REPRESENTAÇÕES E SERVIÇOS LTDA.",
+            "n_licitacoes": 112,
+            "n_vencedora": 89,
+            "node_id": "CRISFARMA COMERCIO REPRESENTAÇÕES E SERVIÇOS LTDA. (CNPJ: 32734295000116)",
+            "prop_vencedoras": 0.7946,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "35408525000145",
+            "name": "TINUS INFORMATICA",
+            "n_licitacoes": 155,
+            "n_vencedora": 11,
+            "node_id": "TINUS INFORMATICA (CNPJ: 35408525000145)",
+            "prop_vencedoras": 0.071,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "35422021000180",
+            "name": "MB AUTO PECAS LTDA",
+            "n_licitacoes": 195,
+            "n_vencedora": 133,
+            "node_id": "MB AUTO PECAS LTDA (CNPJ: 35422021000180)",
+            "prop_vencedoras": 0.6821,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "35423169000139",
+            "name": "LECITA COMÉRCIO DE MATERIAL P/ESCRITÓRIO LTDA",
+            "n_licitacoes": 381,
+            "n_vencedora": 243,
+            "node_id": "LECITA COMÉRCIO DE MATERIAL P/ESCRITÓRIO LTDA (CNPJ: 35423169000139)",
+            "prop_vencedoras": 0.6378,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "35425172000191",
+            "name": "ELFA PRODUTOS FARMACÊUTICOS E HOSPITALARES LTDA.",
+            "n_licitacoes": 174,
+            "n_vencedora": 81,
+            "node_id": "ELFA PRODUTOS FARMACÊUTICOS E HOSPITALARES LTDA. (CNPJ: 35425172000191)",
+            "prop_vencedoras": 0.4655,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "35500289000192",
+            "name": "PNEUCAR - COMERCIO DE PNEUS, PECAS E SERVICOS LTDA",
+            "n_licitacoes": 444,
+            "n_vencedora": 326,
+            "node_id": "PNEUCAR - COMERCIO DE PNEUS, PECAS E SERVICOS LTDA (CNPJ: 35500289000192)",
+            "prop_vencedoras": 0.7342,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "35588417000100",
+            "name": "RANALDO PAIVA NUNES ME",
+            "n_licitacoes": 141,
+            "n_vencedora": 84,
+            "node_id": "RANALDO PAIVA NUNES ME (CNPJ: 35588417000100)",
+            "prop_vencedoras": 0.5957,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "40787152000109",
+            "name": "CIRUFARMA COMERCIAL LTDA",
+            "n_licitacoes": 1357,
+            "n_vencedora": 1290,
+            "node_id": "CIRUFARMA COMERCIAL LTDA (CNPJ: 40787152000109)",
+            "prop_vencedoras": 0.9506,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "40811440000143",
+            "name": "PRONTOMEDICA PRODUTOS HOSPITALARES LTDA ME",
+            "n_licitacoes": 385,
+            "n_vencedora": 351,
+            "node_id": "PRONTOMEDICA PRODUTOS HOSPITALARES LTDA ME (CNPJ: 40811440000143)",
+            "prop_vencedoras": 0.9117,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "40941544000172",
+            "name": "BRINQUEDOLANDIA COMERCIO E REPRESENTACOES",
+            "n_licitacoes": 264,
+            "n_vencedora": 102,
+            "node_id": "BRINQUEDOLANDIA COMERCIO E REPRESENTACOES (CNPJ: 40941544000172)",
+            "prop_vencedoras": 0.3864,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "40968588000196",
+            "name": "KILUZ MATERIAIS ELETRICOS LTDA",
+            "n_licitacoes": 135,
+            "n_vencedora": 87,
+            "node_id": "KILUZ MATERIAIS ELETRICOS LTDA (CNPJ: 40968588000196)",
+            "prop_vencedoras": 0.6444,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "40973307000193",
+            "name": "MARIA DAS GRACAS LUCENA MESSIAS - ME",
+            "n_licitacoes": 85,
+            "n_vencedora": 54,
+            "node_id": "MARIA DAS GRACAS LUCENA MESSIAS - ME (CNPJ: 40973307000193)",
+            "prop_vencedoras": 0.6353,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "40980187000151",
+            "name": "KALCULU S COM DE MOVEIS E MAQUINAS PARA ESCRITORIO LTDA",
+            "n_licitacoes": 251,
+            "n_vencedora": 140,
+            "node_id": "KALCULU S COM DE MOVEIS E MAQUINAS PARA ESCRITORIO LTDA (CNPJ: 40980187000151)",
+            "prop_vencedoras": 0.5578,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "41119306000149",
+            "name": "LAPIS & LACO PAPELARIA LTDA",
+            "n_licitacoes": 177,
+            "n_vencedora": 124,
+            "node_id": "LAPIS & LACO PAPELARIA LTDA (CNPJ: 41119306000149)",
+            "prop_vencedoras": 0.7006,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "41155318000129",
+            "name": "GERALDO JUVINO DE ARAUJO",
+            "n_licitacoes": 69,
+            "n_vencedora": 28,
+            "node_id": "GERALDO JUVINO DE ARAUJO (CNPJ: 41155318000129)",
+            "prop_vencedoras": 0.4058,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "41205907000174",
+            "name": "FRANCISCO AUGUSTO SANTOS BRASIL",
+            "n_licitacoes": 234,
+            "n_vencedora": 215,
+            "node_id": "FRANCISCO AUGUSTO SANTOS BRASIL (CNPJ: 41205907000174)",
+            "prop_vencedoras": 0.9188,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "41577669000128",
+            "name": "EDIFICA EDIFICACOES E CONSTRUCOES LTDA",
+            "n_licitacoes": 109,
+            "n_vencedora": 14,
+            "node_id": "EDIFICA EDIFICACOES E CONSTRUCOES LTDA (CNPJ: 41577669000128)",
+            "prop_vencedoras": 0.1284,
+            "category": 0
+        },
+        {
+            "nu_cpfcnpj": "44734671000151",
+            "name": "CRISTÁLIA PROD.QUIM. FARMACEUTICOS LTDA",
+            "n_licitacoes": 174,
+            "n_vencedora": 170,
+            "node_id": "CRISTÁLIA PROD.QUIM. FARMACEUTICOS LTDA (CNPJ: 44734671000151)",
+            "prop_vencedoras": 0.977,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "63478895000194",
+            "name": "JOSE NERGINO SOBREIRA",
+            "n_licitacoes": 1035,
+            "n_vencedora": 960,
+            "node_id": "JOSE NERGINO SOBREIRA (CNPJ: 63478895000194)",
+            "prop_vencedoras": 0.9275,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "65817900000171",
+            "name": "AGLON COMERCIO E REPRESENTAÇÕES LTDA",
+            "n_licitacoes": 122,
+            "n_vencedora": 113,
+            "node_id": "AGLON COMERCIO E REPRESENTAÇÕES LTDA (CNPJ: 65817900000171)",
+            "prop_vencedoras": 0.9262,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "67729178000220",
+            "name": "COMERCIAL CIRÚGICA RIO CLARENSE LTDA",
+            "n_licitacoes": 260,
+            "n_vencedora": 235,
+            "node_id": "COMERCIAL CIRÚGICA RIO CLARENSE LTDA (CNPJ: 67729178000220)",
+            "prop_vencedoras": 0.9038,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "69961126000129",
+            "name": "L. SILVA PRODUTOS HOSPITALARES LTDA",
+            "n_licitacoes": 75,
+            "n_vencedora": 53,
+            "node_id": "L. SILVA PRODUTOS HOSPITALARES LTDA (CNPJ: 69961126000129)",
+            "prop_vencedoras": 0.7067,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "70097530000185",
+            "name": "NELFARMA COMERCIO DE PRODUTOS QUIMICOS LTDA",
+            "n_licitacoes": 450,
+            "n_vencedora": 342,
+            "node_id": "NELFARMA COMERCIO DE PRODUTOS QUIMICOS LTDA (CNPJ: 70097530000185)",
+            "prop_vencedoras": 0.76,
+            "category": 2
+        },
+        {
+            "nu_cpfcnpj": "70099924000172",
+            "name": "PRO MEDICINA",
+            "n_licitacoes": 186,
+            "n_vencedora": 78,
+            "node_id": "PRO MEDICINA (CNPJ: 70099924000172)",
+            "prop_vencedoras": 0.4194,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "70103098000198",
+            "name": "CASA DO PROTETICO LTDA.",
+            "n_licitacoes": 246,
+            "n_vencedora": 141,
+            "node_id": "CASA DO PROTETICO LTDA. (CNPJ: 70103098000198)",
+            "prop_vencedoras": 0.5732,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "70104344000126",
+            "name": "ENDOMED COMERCIO E REPRESENTAÇÕES LTDA",
+            "n_licitacoes": 720,
+            "n_vencedora": 521,
+            "node_id": "ENDOMED COMERCIO E REPRESENTAÇÕES LTDA (CNPJ: 70104344000126)",
+            "prop_vencedoras": 0.7236,
+            "category": 1
+        },
+        {
+            "nu_cpfcnpj": "70119805000134",
+            "name": "GEMA CONSTRUCOES E COMERCIO LTDA",
+            "n_licitacoes": 389,
+            "n_vencedora": 142,
+            "node_id": "GEMA CONSTRUCOES E COMERCIO LTDA (CNPJ: 70119805000134)",
+            "prop_vencedoras": 0.365,
+            "category": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 7,
+            "value": 1.28
+        },
+        {
+            "source": 0,
+            "target": 143,
+            "value": 1.1
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 1.02
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "value": 1
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "value": 1.1
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 1.46
+        },
+        {
+            "source": 7,
+            "target": 143,
+            "value": 2.42
+        },
+        {
+            "source": 9,
+            "target": 161,
+            "value": 1.12
+        },
+        {
+            "source": 9,
+            "target": 188,
+            "value": 1.7
+        },
+        {
+            "source": 9,
+            "target": 267,
+            "value": 1.2
+        },
+        {
+            "source": 10,
+            "target": 64,
+            "value": 1.34
+        },
+        {
+            "source": 10,
+            "target": 276,
+            "value": 1.12
+        },
+        {
+            "source": 11,
+            "target": 15,
+            "value": 1.04
+        },
+        {
+            "source": 11,
+            "target": 57,
+            "value": 1.04
+        },
+        {
+            "source": 12,
+            "target": 268,
+            "value": 1.02
+        },
+        {
+            "source": 13,
+            "target": 90,
+            "value": 1.16
+        },
+        {
+            "source": 14,
+            "target": 65,
+            "value": 1.6
+        },
+        {
+            "source": 14,
+            "target": 187,
+            "value": 1.4
+        },
+        {
+            "source": 14,
+            "target": 215,
+            "value": 6.56
+        },
+        {
+            "source": 14,
+            "target": 224,
+            "value": 1.64
+        },
+        {
+            "source": 15,
+            "target": 57,
+            "value": 2.48
+        },
+        {
+            "source": 16,
+            "target": 46,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 67,
+            "value": 1.72
+        },
+        {
+            "source": 16,
+            "target": 77,
+            "value": 1.58
+        },
+        {
+            "source": 16,
+            "target": 127,
+            "value": 3.2
+        },
+        {
+            "source": 16,
+            "target": 158,
+            "value": 1.34
+        },
+        {
+            "source": 16,
+            "target": 160,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 174,
+            "value": 1.5
+        },
+        {
+            "source": 17,
+            "target": 191,
+            "value": 2.46
+        },
+        {
+            "source": 17,
+            "target": 208,
+            "value": 2.74
+        },
+        {
+            "source": 18,
+            "target": 110,
+            "value": 1.02
+        },
+        {
+            "source": 18,
+            "target": 229,
+            "value": 1.24
+        },
+        {
+            "source": 19,
+            "target": 151,
+            "value": 1.38
+        },
+        {
+            "source": 19,
+            "target": 288,
+            "value": 1.28
+        },
+        {
+            "source": 20,
+            "target": 27,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 58,
+            "value": 1.76
+        },
+        {
+            "source": 20,
+            "target": 300,
+            "value": 1.2
+        },
+        {
+            "source": 21,
+            "target": 27,
+            "value": 1.16
+        },
+        {
+            "source": 21,
+            "target": 58,
+            "value": 1.58
+        },
+        {
+            "source": 21,
+            "target": 300,
+            "value": 1.02
+        },
+        {
+            "source": 22,
+            "target": 200,
+            "value": 2.04
+        },
+        {
+            "source": 22,
+            "target": 237,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 245,
+            "value": 1.26
+        },
+        {
+            "source": 22,
+            "target": 285,
+            "value": 2.8
+        },
+        {
+            "source": 22,
+            "target": 296,
+            "value": 1.48
+        },
+        {
+            "source": 22,
+            "target": 298,
+            "value": 1.28
+        },
+        {
+            "source": 23,
+            "target": 225,
+            "value": 1.34
+        },
+        {
+            "source": 24,
+            "target": 74,
+            "value": 2.16
+        },
+        {
+            "source": 24,
+            "target": 136,
+            "value": 2.84
+        },
+        {
+            "source": 24,
+            "target": 195,
+            "value": 1.02
+        },
+        {
+            "source": 25,
+            "target": 240,
+            "value": 1.08
+        },
+        {
+            "source": 26,
+            "target": 215,
+            "value": 2.44
+        },
+        {
+            "source": 27,
+            "target": 58,
+            "value": 1.72
+        },
+        {
+            "source": 28,
+            "target": 101,
+            "value": 1.38
+        },
+        {
+            "source": 28,
+            "target": 106,
+            "value": 1.06
+        },
+        {
+            "source": 28,
+            "target": 261,
+            "value": 1.14
+        },
+        {
+            "source": 29,
+            "target": 97,
+            "value": 1.32
+        },
+        {
+            "source": 30,
+            "target": 43,
+            "value": 1.04
+        },
+        {
+            "source": 30,
+            "target": 134,
+            "value": 3.04
+        },
+        {
+            "source": 30,
+            "target": 200,
+            "value": 1.14
+        },
+        {
+            "source": 30,
+            "target": 243,
+            "value": 3.38
+        },
+        {
+            "source": 30,
+            "target": 271,
+            "value": 3.66
+        },
+        {
+            "source": 30,
+            "target": 272,
+            "value": 1.48
+        },
+        {
+            "source": 30,
+            "target": 285,
+            "value": 1.86
+        },
+        {
+            "source": 30,
+            "target": 296,
+            "value": 1.3
+        },
+        {
+            "source": 31,
+            "target": 200,
+            "value": 1.22
+        },
+        {
+            "source": 31,
+            "target": 245,
+            "value": 1
+        },
+        {
+            "source": 31,
+            "target": 285,
+            "value": 2.28
+        },
+        {
+            "source": 32,
+            "target": 117,
+            "value": 1.14
+        },
+        {
+            "source": 33,
+            "target": 174,
+            "value": 1
+        },
+        {
+            "source": 33,
+            "target": 192,
+            "value": 1.28
+        },
+        {
+            "source": 33,
+            "target": 228,
+            "value": 1.1
+        },
+        {
+            "source": 34,
+            "target": 154,
+            "value": 1.2
+        },
+        {
+            "source": 35,
+            "target": 225,
+            "value": 1.28
+        },
+        {
+            "source": 36,
+            "target": 123,
+            "value": 1.32
+        },
+        {
+            "source": 37,
+            "target": 108,
+            "value": 1.32
+        },
+        {
+            "source": 38,
+            "target": 102,
+            "value": 1.14
+        },
+        {
+            "source": 38,
+            "target": 114,
+            "value": 1.36
+        },
+        {
+            "source": 38,
+            "target": 247,
+            "value": 1.58
+        },
+        {
+            "source": 39,
+            "target": 49,
+            "value": 2.18
+        },
+        {
+            "source": 40,
+            "target": 211,
+            "value": 1.62
+        },
+        {
+            "source": 41,
+            "target": 292,
+            "value": 1.04
+        },
+        {
+            "source": 42,
+            "target": 56,
+            "value": 1.12
+        },
+        {
+            "source": 42,
+            "target": 64,
+            "value": 1.44
+        },
+        {
+            "source": 42,
+            "target": 227,
+            "value": 1.12
+        },
+        {
+            "source": 42,
+            "target": 276,
+            "value": 1.78
+        },
+        {
+            "source": 43,
+            "target": 271,
+            "value": 1.14
+        },
+        {
+            "source": 44,
+            "target": 136,
+            "value": 1.06
+        },
+        {
+            "source": 45,
+            "target": 141,
+            "value": 1.08
+        },
+        {
+            "source": 47,
+            "target": 71,
+            "value": 1.16
+        },
+        {
+            "source": 48,
+            "target": 220,
+            "value": 1.02
+        },
+        {
+            "source": 49,
+            "target": 172,
+            "value": 1.12
+        },
+        {
+            "source": 50,
+            "target": 211,
+            "value": 1.78
+        },
+        {
+            "source": 50,
+            "target": 214,
+            "value": 1.38
+        },
+        {
+            "source": 51,
+            "target": 201,
+            "value": 1.36
+        },
+        {
+            "source": 51,
+            "target": 299,
+            "value": 1.44
+        },
+        {
+            "source": 52,
+            "target": 260,
+            "value": 1.04
+        },
+        {
+            "source": 53,
+            "target": 107,
+            "value": 1.68
+        },
+        {
+            "source": 53,
+            "target": 177,
+            "value": 1.06
+        },
+        {
+            "source": 54,
+            "target": 58,
+            "value": 4.16
+        },
+        {
+            "source": 54,
+            "target": 183,
+            "value": 1.74
+        },
+        {
+            "source": 54,
+            "target": 245,
+            "value": 1.54
+        },
+        {
+            "source": 54,
+            "target": 303,
+            "value": 2.06
+        },
+        {
+            "source": 55,
+            "target": 63,
+            "value": 1.86
+        },
+        {
+            "source": 56,
+            "target": 64,
+            "value": 1.06
+        },
+        {
+            "source": 56,
+            "target": 276,
+            "value": 1.22
+        },
+        {
+            "source": 58,
+            "target": 149,
+            "value": 1
+        },
+        {
+            "source": 58,
+            "target": 183,
+            "value": 4.24
+        },
+        {
+            "source": 58,
+            "target": 200,
+            "value": 1
+        },
+        {
+            "source": 58,
+            "target": 245,
+            "value": 3.96
+        },
+        {
+            "source": 58,
+            "target": 285,
+            "value": 3.22
+        },
+        {
+            "source": 58,
+            "target": 296,
+            "value": 1.82
+        },
+        {
+            "source": 58,
+            "target": 300,
+            "value": 2.06
+        },
+        {
+            "source": 58,
+            "target": 303,
+            "value": 3.78
+        },
+        {
+            "source": 59,
+            "target": 145,
+            "value": 1.24
+        },
+        {
+            "source": 60,
+            "target": 252,
+            "value": 1.42
+        },
+        {
+            "source": 61,
+            "target": 62,
+            "value": 1.44
+        },
+        {
+            "source": 61,
+            "target": 207,
+            "value": 2.02
+        },
+        {
+            "source": 62,
+            "target": 207,
+            "value": 1.82
+        },
+        {
+            "source": 64,
+            "target": 227,
+            "value": 1.16
+        },
+        {
+            "source": 64,
+            "target": 276,
+            "value": 1.76
+        },
+        {
+            "source": 65,
+            "target": 215,
+            "value": 2.3
+        },
+        {
+            "source": 66,
+            "target": 169,
+            "value": 1.32
+        },
+        {
+            "source": 66,
+            "target": 191,
+            "value": 1.22
+        },
+        {
+            "source": 66,
+            "target": 219,
+            "value": 1.24
+        },
+        {
+            "source": 66,
+            "target": 235,
+            "value": 1.52
+        },
+        {
+            "source": 66,
+            "target": 275,
+            "value": 1.88
+        },
+        {
+            "source": 67,
+            "target": 87,
+            "value": 1.42
+        },
+        {
+            "source": 67,
+            "target": 100,
+            "value": 1.9
+        },
+        {
+            "source": 68,
+            "target": 261,
+            "value": 1
+        },
+        {
+            "source": 68,
+            "target": 266,
+            "value": 1.04
+        },
+        {
+            "source": 69,
+            "target": 173,
+            "value": 2.08
+        },
+        {
+            "source": 70,
+            "target": 211,
+            "value": 1.08
+        },
+        {
+            "source": 71,
+            "target": 98,
+            "value": 1.74
+        },
+        {
+            "source": 71,
+            "target": 183,
+            "value": 2.7
+        },
+        {
+            "source": 71,
+            "target": 258,
+            "value": 2.34
+        },
+        {
+            "source": 71,
+            "target": 275,
+            "value": 1.64
+        },
+        {
+            "source": 71,
+            "target": 303,
+            "value": 1.26
+        },
+        {
+            "source": 72,
+            "target": 113,
+            "value": 4.14
+        },
+        {
+            "source": 72,
+            "target": 122,
+            "value": 1.06
+        },
+        {
+            "source": 73,
+            "target": 303,
+            "value": 1.42
+        },
+        {
+            "source": 74,
+            "target": 136,
+            "value": 2.98
+        },
+        {
+            "source": 74,
+            "target": 195,
+            "value": 1.42
+        },
+        {
+            "source": 75,
+            "target": 152,
+            "value": 1.98
+        },
+        {
+            "source": 75,
+            "target": 287,
+            "value": 1.38
+        },
+        {
+            "source": 75,
+            "target": 291,
+            "value": 1.18
+        },
+        {
+            "source": 76,
+            "target": 247,
+            "value": 1.22
+        },
+        {
+            "source": 77,
+            "target": 127,
+            "value": 1.66
+        },
+        {
+            "source": 77,
+            "target": 135,
+            "value": 1.6
+        },
+        {
+            "source": 77,
+            "target": 158,
+            "value": 1.32
+        },
+        {
+            "source": 78,
+            "target": 83,
+            "value": 1.08
+        },
+        {
+            "source": 78,
+            "target": 126,
+            "value": 2.66
+        },
+        {
+            "source": 79,
+            "target": 223,
+            "value": 2
+        },
+        {
+            "source": 79,
+            "target": 270,
+            "value": 2.58
+        },
+        {
+            "source": 80,
+            "target": 285,
+            "value": 1.24
+        },
+        {
+            "source": 80,
+            "target": 296,
+            "value": 2.02
+        },
+        {
+            "source": 81,
+            "target": 221,
+            "value": 1.14
+        },
+        {
+            "source": 82,
+            "target": 215,
+            "value": 1.2
+        },
+        {
+            "source": 84,
+            "target": 238,
+            "value": 1.04
+        },
+        {
+            "source": 85,
+            "target": 202,
+            "value": 1.12
+        },
+        {
+            "source": 85,
+            "target": 252,
+            "value": 2.42
+        },
+        {
+            "source": 86,
+            "target": 153,
+            "value": 1
+        },
+        {
+            "source": 87,
+            "target": 100,
+            "value": 1.46
+        },
+        {
+            "source": 87,
+            "target": 120,
+            "value": 1.52
+        },
+        {
+            "source": 88,
+            "target": 207,
+            "value": 1.24
+        },
+        {
+            "source": 89,
+            "target": 203,
+            "value": 1.66
+        },
+        {
+            "source": 90,
+            "target": 182,
+            "value": 1.4
+        },
+        {
+            "source": 90,
+            "target": 183,
+            "value": 1.04
+        },
+        {
+            "source": 90,
+            "target": 226,
+            "value": 1.5
+        },
+        {
+            "source": 90,
+            "target": 274,
+            "value": 1.4
+        },
+        {
+            "source": 90,
+            "target": 285,
+            "value": 2.16
+        },
+        {
+            "source": 90,
+            "target": 296,
+            "value": 3.44
+        },
+        {
+            "source": 91,
+            "target": 211,
+            "value": 1.36
+        },
+        {
+            "source": 91,
+            "target": 214,
+            "value": 1.44
+        },
+        {
+            "source": 92,
+            "target": 200,
+            "value": 1.3
+        },
+        {
+            "source": 92,
+            "target": 285,
+            "value": 1.48
+        },
+        {
+            "source": 93,
+            "target": 96,
+            "value": 1.04
+        },
+        {
+            "source": 94,
+            "target": 133,
+            "value": 1.04
+        },
+        {
+            "source": 95,
+            "target": 176,
+            "value": 1.04
+        },
+        {
+            "source": 97,
+            "target": 216,
+            "value": 1.04
+        },
+        {
+            "source": 98,
+            "target": 303,
+            "value": 1.58
+        },
+        {
+            "source": 99,
+            "target": 260,
+            "value": 1.54
+        },
+        {
+            "source": 103,
+            "target": 242,
+            "value": 1.42
+        },
+        {
+            "source": 104,
+            "target": 131,
+            "value": 2.14
+        },
+        {
+            "source": 104,
+            "target": 163,
+            "value": 1.44
+        },
+        {
+            "source": 104,
+            "target": 212,
+            "value": 1.18
+        },
+        {
+            "source": 104,
+            "target": 249,
+            "value": 1.18
+        },
+        {
+            "source": 104,
+            "target": 257,
+            "value": 1.24
+        },
+        {
+            "source": 104,
+            "target": 269,
+            "value": 1.82
+        },
+        {
+            "source": 104,
+            "target": 281,
+            "value": 1.92
+        },
+        {
+            "source": 104,
+            "target": 293,
+            "value": 1.68
+        },
+        {
+            "source": 105,
+            "target": 265,
+            "value": 1.78
+        },
+        {
+            "source": 106,
+            "target": 261,
+            "value": 1.92
+        },
+        {
+            "source": 108,
+            "target": 128,
+            "value": 1.9
+        },
+        {
+            "source": 109,
+            "target": 111,
+            "value": 1.64
+        },
+        {
+            "source": 109,
+            "target": 132,
+            "value": 1.42
+        },
+        {
+            "source": 109,
+            "target": 164,
+            "value": 1.1
+        },
+        {
+            "source": 110,
+            "target": 129,
+            "value": 1.54
+        },
+        {
+            "source": 110,
+            "target": 137,
+            "value": 1.24
+        },
+        {
+            "source": 110,
+            "target": 167,
+            "value": 2.86
+        },
+        {
+            "source": 110,
+            "target": 229,
+            "value": 1.98
+        },
+        {
+            "source": 111,
+            "target": 132,
+            "value": 1.42
+        },
+        {
+            "source": 112,
+            "target": 115,
+            "value": 1.6
+        },
+        {
+            "source": 112,
+            "target": 140,
+            "value": 1.08
+        },
+        {
+            "source": 116,
+            "target": 178,
+            "value": 1.74
+        },
+        {
+            "source": 116,
+            "target": 179,
+            "value": 1.28
+        },
+        {
+            "source": 116,
+            "target": 268,
+            "value": 3.44
+        },
+        {
+            "source": 117,
+            "target": 200,
+            "value": 1.72
+        },
+        {
+            "source": 117,
+            "target": 285,
+            "value": 1.86
+        },
+        {
+            "source": 117,
+            "target": 286,
+            "value": 1.44
+        },
+        {
+            "source": 118,
+            "target": 133,
+            "value": 2.4
+        },
+        {
+            "source": 119,
+            "target": 157,
+            "value": 1.04
+        },
+        {
+            "source": 119,
+            "target": 165,
+            "value": 1.24
+        },
+        {
+            "source": 119,
+            "target": 181,
+            "value": 1.3
+        },
+        {
+            "source": 121,
+            "target": 243,
+            "value": 1.08
+        },
+        {
+            "source": 124,
+            "target": 304,
+            "value": 1.22
+        },
+        {
+            "source": 125,
+            "target": 129,
+            "value": 2.04
+        },
+        {
+            "source": 127,
+            "target": 158,
+            "value": 1.2
+        },
+        {
+            "source": 127,
+            "target": 160,
+            "value": 1.02
+        },
+        {
+            "source": 130,
+            "target": 234,
+            "value": 1
+        },
+        {
+            "source": 131,
+            "target": 163,
+            "value": 1.28
+        },
+        {
+            "source": 131,
+            "target": 212,
+            "value": 1.1
+        },
+        {
+            "source": 131,
+            "target": 269,
+            "value": 1.42
+        },
+        {
+            "source": 131,
+            "target": 281,
+            "value": 1.2
+        },
+        {
+            "source": 131,
+            "target": 293,
+            "value": 1.36
+        },
+        {
+            "source": 134,
+            "target": 243,
+            "value": 2.96
+        },
+        {
+            "source": 134,
+            "target": 271,
+            "value": 4.42
+        },
+        {
+            "source": 134,
+            "target": 272,
+            "value": 1.2
+        },
+        {
+            "source": 134,
+            "target": 285,
+            "value": 1.46
+        },
+        {
+            "source": 134,
+            "target": 286,
+            "value": 1.86
+        },
+        {
+            "source": 136,
+            "target": 195,
+            "value": 2.82
+        },
+        {
+            "source": 138,
+            "target": 200,
+            "value": 1.08
+        },
+        {
+            "source": 139,
+            "target": 243,
+            "value": 1.2
+        },
+        {
+            "source": 139,
+            "target": 272,
+            "value": 1.82
+        },
+        {
+            "source": 139,
+            "target": 302,
+            "value": 1.02
+        },
+        {
+            "source": 142,
+            "target": 243,
+            "value": 1.02
+        },
+        {
+            "source": 144,
+            "target": 209,
+            "value": 1.28
+        },
+        {
+            "source": 146,
+            "target": 154,
+            "value": 1.16
+        },
+        {
+            "source": 146,
+            "target": 243,
+            "value": 1.02
+        },
+        {
+            "source": 146,
+            "target": 285,
+            "value": 1.48
+        },
+        {
+            "source": 147,
+            "target": 251,
+            "value": 1.04
+        },
+        {
+            "source": 148,
+            "target": 162,
+            "value": 1.16
+        },
+        {
+            "source": 149,
+            "target": 183,
+            "value": 2.52
+        },
+        {
+            "source": 149,
+            "target": 200,
+            "value": 2.18
+        },
+        {
+            "source": 149,
+            "target": 237,
+            "value": 1.46
+        },
+        {
+            "source": 149,
+            "target": 245,
+            "value": 1.92
+        },
+        {
+            "source": 149,
+            "target": 255,
+            "value": 1.14
+        },
+        {
+            "source": 149,
+            "target": 271,
+            "value": 1.08
+        },
+        {
+            "source": 149,
+            "target": 285,
+            "value": 5.18
+        },
+        {
+            "source": 149,
+            "target": 296,
+            "value": 3.06
+        },
+        {
+            "source": 149,
+            "target": 300,
+            "value": 1.08
+        },
+        {
+            "source": 149,
+            "target": 303,
+            "value": 1.58
+        },
+        {
+            "source": 150,
+            "target": 163,
+            "value": 1.24
+        },
+        {
+            "source": 150,
+            "target": 174,
+            "value": 2.44
+        },
+        {
+            "source": 150,
+            "target": 192,
+            "value": 2.34
+        },
+        {
+            "source": 150,
+            "target": 281,
+            "value": 1.04
+        },
+        {
+            "source": 151,
+            "target": 288,
+            "value": 1.6
+        },
+        {
+            "source": 152,
+            "target": 218,
+            "value": 1.48
+        },
+        {
+            "source": 152,
+            "target": 287,
+            "value": 1.66
+        },
+        {
+            "source": 152,
+            "target": 291,
+            "value": 1.2
+        },
+        {
+            "source": 154,
+            "target": 285,
+            "value": 1.22
+        },
+        {
+            "source": 155,
+            "target": 236,
+            "value": 1.46
+        },
+        {
+            "source": 156,
+            "target": 285,
+            "value": 1.14
+        },
+        {
+            "source": 157,
+            "target": 165,
+            "value": 1.14
+        },
+        {
+            "source": 159,
+            "target": 168,
+            "value": 1.64
+        },
+        {
+            "source": 160,
+            "target": 174,
+            "value": 1.16
+        },
+        {
+            "source": 163,
+            "target": 281,
+            "value": 1.52
+        },
+        {
+            "source": 163,
+            "target": 293,
+            "value": 1.28
+        },
+        {
+            "source": 166,
+            "target": 269,
+            "value": 1.08
+        },
+        {
+            "source": 166,
+            "target": 293,
+            "value": 1.28
+        },
+        {
+            "source": 168,
+            "target": 184,
+            "value": 1
+        },
+        {
+            "source": 170,
+            "target": 180,
+            "value": 1.06
+        },
+        {
+            "source": 170,
+            "target": 189,
+            "value": 1.02
+        },
+        {
+            "source": 171,
+            "target": 175,
+            "value": 1.36
+        },
+        {
+            "source": 171,
+            "target": 193,
+            "value": 1.04
+        },
+        {
+            "source": 172,
+            "target": 232,
+            "value": 1.46
+        },
+        {
+            "source": 174,
+            "target": 192,
+            "value": 2.54
+        },
+        {
+            "source": 175,
+            "target": 193,
+            "value": 1.8
+        },
+        {
+            "source": 178,
+            "target": 268,
+            "value": 1.64
+        },
+        {
+            "source": 179,
+            "target": 268,
+            "value": 1.32
+        },
+        {
+            "source": 182,
+            "target": 226,
+            "value": 1.78
+        },
+        {
+            "source": 182,
+            "target": 285,
+            "value": 1.3
+        },
+        {
+            "source": 182,
+            "target": 296,
+            "value": 2.16
+        },
+        {
+            "source": 183,
+            "target": 200,
+            "value": 3.06
+        },
+        {
+            "source": 183,
+            "target": 226,
+            "value": 1.26
+        },
+        {
+            "source": 183,
+            "target": 237,
+            "value": 2.6
+        },
+        {
+            "source": 183,
+            "target": 243,
+            "value": 1.12
+        },
+        {
+            "source": 183,
+            "target": 244,
+            "value": 1.04
+        },
+        {
+            "source": 183,
+            "target": 245,
+            "value": 4.2
+        },
+        {
+            "source": 183,
+            "target": 258,
+            "value": 1.24
+        },
+        {
+            "source": 183,
+            "target": 263,
+            "value": 1.04
+        },
+        {
+            "source": 183,
+            "target": 285,
+            "value": 6.46
+        },
+        {
+            "source": 183,
+            "target": 296,
+            "value": 4.74
+        },
+        {
+            "source": 183,
+            "target": 300,
+            "value": 1.12
+        },
+        {
+            "source": 183,
+            "target": 303,
+            "value": 2.6
+        },
+        {
+            "source": 185,
+            "target": 202,
+            "value": 2.14
+        },
+        {
+            "source": 185,
+            "target": 277,
+            "value": 1.88
+        },
+        {
+            "source": 186,
+            "target": 215,
+            "value": 2
+        },
+        {
+            "source": 187,
+            "target": 215,
+            "value": 3.3
+        },
+        {
+            "source": 190,
+            "target": 250,
+            "value": 1.8
+        },
+        {
+            "source": 191,
+            "target": 208,
+            "value": 2.8
+        },
+        {
+            "source": 192,
+            "target": 228,
+            "value": 1.2
+        },
+        {
+            "source": 192,
+            "target": 230,
+            "value": 1.22
+        },
+        {
+            "source": 194,
+            "target": 213,
+            "value": 1.68
+        },
+        {
+            "source": 196,
+            "target": 197,
+            "value": 1
+        },
+        {
+            "source": 197,
+            "target": 253,
+            "value": 1.12
+        },
+        {
+            "source": 198,
+            "target": 215,
+            "value": 1.72
+        },
+        {
+            "source": 199,
+            "target": 245,
+            "value": 1.06
+        },
+        {
+            "source": 199,
+            "target": 285,
+            "value": 2.04
+        },
+        {
+            "source": 200,
+            "target": 201,
+            "value": 1.98
+        },
+        {
+            "source": 200,
+            "target": 205,
+            "value": 2.18
+        },
+        {
+            "source": 200,
+            "target": 237,
+            "value": 2.32
+        },
+        {
+            "source": 200,
+            "target": 243,
+            "value": 1.62
+        },
+        {
+            "source": 200,
+            "target": 245,
+            "value": 2.42
+        },
+        {
+            "source": 200,
+            "target": 259,
+            "value": 1.36
+        },
+        {
+            "source": 200,
+            "target": 278,
+            "value": 1.22
+        },
+        {
+            "source": 200,
+            "target": 285,
+            "value": 9.52
+        },
+        {
+            "source": 200,
+            "target": 286,
+            "value": 2.52
+        },
+        {
+            "source": 200,
+            "target": 295,
+            "value": 2.36
+        },
+        {
+            "source": 200,
+            "target": 296,
+            "value": 2.98
+        },
+        {
+            "source": 200,
+            "target": 297,
+            "value": 1.62
+        },
+        {
+            "source": 200,
+            "target": 298,
+            "value": 3.44
+        },
+        {
+            "source": 200,
+            "target": 303,
+            "value": 1.64
+        },
+        {
+            "source": 201,
+            "target": 285,
+            "value": 2.28
+        },
+        {
+            "source": 201,
+            "target": 298,
+            "value": 1.18
+        },
+        {
+            "source": 202,
+            "target": 252,
+            "value": 4.2
+        },
+        {
+            "source": 202,
+            "target": 277,
+            "value": 4.88
+        },
+        {
+            "source": 202,
+            "target": 284,
+            "value": 1.2
+        },
+        {
+            "source": 204,
+            "target": 231,
+            "value": 1.14
+        },
+        {
+            "source": 205,
+            "target": 285,
+            "value": 2.44
+        },
+        {
+            "source": 205,
+            "target": 298,
+            "value": 1.7
+        },
+        {
+            "source": 206,
+            "target": 213,
+            "value": 1.02
+        },
+        {
+            "source": 208,
+            "target": 271,
+            "value": 1.9
+        },
+        {
+            "source": 210,
+            "target": 217,
+            "value": 1.16
+        },
+        {
+            "source": 211,
+            "target": 214,
+            "value": 4.46
+        },
+        {
+            "source": 211,
+            "target": 279,
+            "value": 1.9
+        },
+        {
+            "source": 212,
+            "target": 281,
+            "value": 1.08
+        },
+        {
+            "source": 214,
+            "target": 279,
+            "value": 1.94
+        },
+        {
+            "source": 215,
+            "target": 224,
+            "value": 1.72
+        },
+        {
+            "source": 220,
+            "target": 246,
+            "value": 1.64
+        },
+        {
+            "source": 222,
+            "target": 225,
+            "value": 1
+        },
+        {
+            "source": 223,
+            "target": 270,
+            "value": 4.38
+        },
+        {
+            "source": 223,
+            "target": 273,
+            "value": 1.34
+        },
+        {
+            "source": 223,
+            "target": 289,
+            "value": 1.14
+        },
+        {
+            "source": 226,
+            "target": 285,
+            "value": 1.54
+        },
+        {
+            "source": 226,
+            "target": 296,
+            "value": 3
+        },
+        {
+            "source": 227,
+            "target": 276,
+            "value": 1.16
+        },
+        {
+            "source": 230,
+            "target": 254,
+            "value": 1.08
+        },
+        {
+            "source": 233,
+            "target": 285,
+            "value": 1.12
+        },
+        {
+            "source": 237,
+            "target": 245,
+            "value": 2.08
+        },
+        {
+            "source": 237,
+            "target": 285,
+            "value": 4.08
+        },
+        {
+            "source": 237,
+            "target": 296,
+            "value": 2.02
+        },
+        {
+            "source": 237,
+            "target": 298,
+            "value": 1.06
+        },
+        {
+            "source": 237,
+            "target": 303,
+            "value": 1.26
+        },
+        {
+            "source": 239,
+            "target": 296,
+            "value": 1
+        },
+        {
+            "source": 241,
+            "target": 290,
+            "value": 1.12
+        },
+        {
+            "source": 243,
+            "target": 258,
+            "value": 2.32
+        },
+        {
+            "source": 243,
+            "target": 271,
+            "value": 3.58
+        },
+        {
+            "source": 243,
+            "target": 272,
+            "value": 1.8
+        },
+        {
+            "source": 243,
+            "target": 285,
+            "value": 3.16
+        },
+        {
+            "source": 243,
+            "target": 286,
+            "value": 1.32
+        },
+        {
+            "source": 243,
+            "target": 303,
+            "value": 1.08
+        },
+        {
+            "source": 244,
+            "target": 245,
+            "value": 3.56
+        },
+        {
+            "source": 244,
+            "target": 285,
+            "value": 1.48
+        },
+        {
+            "source": 244,
+            "target": 296,
+            "value": 1.32
+        },
+        {
+            "source": 245,
+            "target": 263,
+            "value": 2.36
+        },
+        {
+            "source": 245,
+            "target": 285,
+            "value": 5.54
+        },
+        {
+            "source": 245,
+            "target": 296,
+            "value": 2.82
+        },
+        {
+            "source": 245,
+            "target": 300,
+            "value": 1.62
+        },
+        {
+            "source": 245,
+            "target": 303,
+            "value": 1.86
+        },
+        {
+            "source": 248,
+            "target": 254,
+            "value": 1.2
+        },
+        {
+            "source": 249,
+            "target": 269,
+            "value": 1.38
+        },
+        {
+            "source": 249,
+            "target": 293,
+            "value": 1.22
+        },
+        {
+            "source": 252,
+            "target": 277,
+            "value": 2.04
+        },
+        {
+            "source": 255,
+            "target": 285,
+            "value": 1.72
+        },
+        {
+            "source": 255,
+            "target": 296,
+            "value": 1.02
+        },
+        {
+            "source": 256,
+            "target": 265,
+            "value": 1.02
+        },
+        {
+            "source": 258,
+            "target": 275,
+            "value": 2.24
+        },
+        {
+            "source": 258,
+            "target": 301,
+            "value": 1.48
+        },
+        {
+            "source": 258,
+            "target": 303,
+            "value": 1.84
+        },
+        {
+            "source": 262,
+            "target": 301,
+            "value": 1.1
+        },
+        {
+            "source": 263,
+            "target": 285,
+            "value": 1.56
+        },
+        {
+            "source": 264,
+            "target": 294,
+            "value": 1.12
+        },
+        {
+            "source": 269,
+            "target": 281,
+            "value": 2.38
+        },
+        {
+            "source": 269,
+            "target": 293,
+            "value": 2.6
+        },
+        {
+            "source": 270,
+            "target": 273,
+            "value": 1.92
+        },
+        {
+            "source": 270,
+            "target": 289,
+            "value": 1.62
+        },
+        {
+            "source": 271,
+            "target": 285,
+            "value": 1
+        },
+        {
+            "source": 271,
+            "target": 286,
+            "value": 1.2
+        },
+        {
+            "source": 271,
+            "target": 296,
+            "value": 1.22
+        },
+        {
+            "source": 272,
+            "target": 302,
+            "value": 1.76
+        },
+        {
+            "source": 275,
+            "target": 282,
+            "value": 1.3
+        },
+        {
+            "source": 277,
+            "target": 284,
+            "value": 1.34
+        },
+        {
+            "source": 278,
+            "target": 285,
+            "value": 1.3
+        },
+        {
+            "source": 280,
+            "target": 283,
+            "value": 1.86
+        },
+        {
+            "source": 281,
+            "target": 293,
+            "value": 2.6
+        },
+        {
+            "source": 285,
+            "target": 286,
+            "value": 2.76
+        },
+        {
+            "source": 285,
+            "target": 295,
+            "value": 1.98
+        },
+        {
+            "source": 285,
+            "target": 296,
+            "value": 7.44
+        },
+        {
+            "source": 285,
+            "target": 297,
+            "value": 1.46
+        },
+        {
+            "source": 285,
+            "target": 298,
+            "value": 3.64
+        },
+        {
+            "source": 285,
+            "target": 300,
+            "value": 2.08
+        },
+        {
+            "source": 285,
+            "target": 303,
+            "value": 3.42
+        },
+        {
+            "source": 286,
+            "target": 296,
+            "value": 1
+        },
+        {
+            "source": 295,
+            "target": 298,
+            "value": 1.14
+        },
+        {
+            "source": 296,
+            "target": 298,
+            "value": 1
+        },
+        {
+            "source": 296,
+            "target": 303,
+            "value": 1.68
+        }
+    ],
+    "categories": [
+        {
+            "name": "Abaixo de 50"
+        },
+        {
+            "name": "intermediario"
+        },
+        {
+            "name": "Acima de 50"
+        }
+    ]
+}
