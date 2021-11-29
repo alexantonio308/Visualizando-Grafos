@@ -4785,13 +4785,16 @@
     ],
     "categories": [
         {
-            "name": "Abaixo de 50"
+            "name": "Abaixo de 25%",
+            "color": "#ee6666"
         },
         {
-            "name": "intermediario"
+            "name": "Entre 25% e 75%",
+            "color": "yellow"
         },
         {
-            "name": "Acima de 50"
+            "name": "Acima de 75%",
+            "color": "green"
         }
     ]
 }
