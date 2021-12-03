@@ -4785,16 +4785,13 @@
     ],
     "categories": [
         {
-            "name": "Abaixo de 25%",
-            "color": "#ee6666"
+            "name": "Abaixo de 25%"
         },
         {
-            "name": "Entre 25% e 75%",
-            "color": "yellow"
+            "name": "Entre 25% e 75%"
         },
         {
-            "name": "Acima de 75%",
-            "color": "green"
+            "name": "Acima de 75%"
         }
     ]
 }
